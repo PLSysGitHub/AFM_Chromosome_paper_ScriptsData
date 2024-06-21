@@ -1,0 +1,981 @@
+\*Force file list
+\Version: 0x09010300
+\Date: 12:54:49 PM Tue Nov 15 2022
+\Start context: FOL
+\Data length: 40960
+\Text: 
+\History: 
+\Navigator note: 
+\Engage X Pos: 
+\Engage Y Pos: 
+\*Equipment list
+\Description: BioScope Catalyst
+\Microscope: BioScope Catalyst
+\Extender: None
+\Sensor: None
+\Vision: None
+\Scanner file: 1b981bioc.scn
+\Temp Controller: LakeShore
+\*Scanner list
+\Scanner type: BioV
+\Serial Number: 1CA3A
+\Part Number: 840-017-399-R
+\Piezo size: P
+\File name: 1b981bioc.scn
+\Retracted offset der: -26
+\Extended offset der: -2
+\Allow rotation: Allow
+\Piezo cal: 90
+\X max: 85
+\Y max: 85
+\X sensitivity: 1371.5
+\X derate: 5.75
+\X mag: 0.9
+\X mag1: 0.49
+\X arg: 2.6
+\Fast arg derate: 0.001
+\Y sensitivity: 1475
+\Y derate: 7.25
+\Y mag: 0.65
+\Y mag1: 0.7
+\Y arg: 2.8
+\X slow sensitivity: 1480
+\X slow derate: 6.5
+\Y fast sensitivity: 1386.9
+\Y fast derate: 5.99
+\X slow-fast coupling: 0
+\X slow-fast coupling derating: 0
+\Y slow-fast coupling: 0
+\Y slow-fast coupling derating: -4.33488e-009
+\Fast cal freq: 2.44
+\Slow cal freq: 1.48201
+\Xs-Yf coupling: 0
+\Xs-Yf coupling derating: 0
+\Ys-Xf coupling: 0
+\Ys-Xf coupling derating: -4.33488e-009
+\X offset sens: 1883
+\Y offset sens: 2090
+\Max scan size: 150
+\Z min: 0
+\Z max: 150
+\Z engage position: 75
+\OptoXY x sensitivity: 1765
+\OptoXY y sensitivity: 1765
+\OptoXY x sens fitted: 1765
+\OptoXY y sens fitted: 1765
+\OptoXY orthog fitted: 0
+\OptoXY pgain/igain: 0.5
+\ClosedLoop x igain: 0.25
+\ClosedLoop x pgain: 0.125
+\ClosedLoop y igain: 0.25
+\ClosedLoop y pgain: 0.125
+\Z range sens: 162.352
+\Z sensor sens: 2407
+\Z sensor gain factor: 1.8
+\Z sensor offset gain: 1.95
+\Z CL IGain: 2.9
+\Z CL PGain: 2.5
+\Full Range Sensor Gain: 1
+\Z sensor Linearization: No
+\CapVsX: -37.5005
+\CapHsX: 327878
+\CapAmpX: -1.14093e+007
+\CapVsY: -37.3792
+\CapHsY: 329421
+\CapAmpY: -1.14105e+007
+\Adaptive XY Feedback Scanner: Yes
+\Adaptive ScanSizeExpRatio: 0.5
+\Adaptive Minimal Scan Size: 10
+\Adaptive Minimal Scan Rate: 0.2
+\Adaptive x RefPolarity: -1
+\Adaptive y RefPolarity: 1
+\Adaptive x PlantGain: 1
+\Adaptive y PlantGain: 1
+\Adaptive x SensorNoise: 320
+\Adaptive y SensorNoise: 320
+\Adaptive x CutOffFreq: 100
+\Adaptive y CutOffFreq: 100
+\Adaptive x Feedback BW: 2
+\Adaptive y Feedback BW: 2
+\Adaptive Max scan size: 150
+\@Sens. Zsens: V 103.5000 nm/V
+\@Sens. CurrentSens: V 10.00000 nA/V
+\@Sens. SECPMSens: V 100.0000 mV/V
+\@Sens. Xsensor: V 10143.84 nm/V
+\@Sens. Ysensor: V 10200.20 nm/V
+\*Ciao scan list
+\Parameter select: Main
+\Operating mode: Force
+\Tip Serial Number: Unknown
+\Tip Scanned Distance: 1.39786e+007
+\Tip Frame Count: 486
+\Scan Size: 6835.94 nm
+\X Offset: 1338.2 nm
+\Y Offset: -1805.18 nm
+\SPM Zoom X Offset: 0 nm
+\SPM Zoom Y Offset: 0 nm
+\SPM Zoom Applied X Offset: 0 nm
+\SPM Zoom Applied Y Offset: 0 nm
+\Live SPM Zoom Mode: No
+\Rotate Ang.: 0
+\Stage X: 0
+\Stage Y: 0
+\Stage Z: 0
+\Stage Optics: 0
+\X round: 0
+\NanoTrack X Offset Set: 0
+\NanoTrack Y Offset Set: 0
+\NanoTrack X Offset Actual: -29789
+\NanoTrack Y Offset Actual: -2739
+\Samps/line: 256
+\Lines: 256
+\Y disable: Enabled
+\Aspect Ratio: 1:1
+\Bidirectional Scan: Disabled
+\Scan line shift: 0
+\Scan Rate: 0.500801
+\Dark Lift Delay: 300
+\CD Mode: Disabled
+\PrpGain: 0.5
+\IntGain: 0.5
+\PIDErr: 0.0152588
+\tappFilterCutoff: 100
+\dithFilterCutoff: 100
+\LocHighLowDistance: 200
+\SlopeOutOffset: 0.5
+\SlopeOutLimit: 0.5
+\PointLag: 100
+\RcrsvAvg: 100
+\AvTipState: 100
+\microstepSize: 5
+\zxRatio: 10
+\dataStepAdj: 1
+\debugData: Standard
+\Amplitude X: 0
+\Amplitude Y: 0
+\Phase X: 0
+\Phase Y: 0
+\spare0: 0
+\spare1: 0
+\spare2: 0
+\spare3: 0
+\spare4: 0
+\spare5: 0
+\Tip Velocity: 6.84689
+\Zoom in at Constant: Tip Velocity
+\Minimum scan rate: 0.1
+\Lift rate: 4
+\X drift: 0
+\Y drift: 0
+\Step XY size: 300
+\Cycles: 10
+\Step XY period: 0.005
+\Step size: 3
+\Units: Metric
+\Setpoint Units: nm
+\Clear Buffer for new Scan Area: No
+\Color table: 2
+\Scope dualtrace: Dual
+\Auto X Sep: 0
+\Auto Y Sep: 0
+\Auto pattern: Linear
+\Auto number: 2
+\Capture direction: Up
+\Capture prelines: 50
+\Engage Setpoint: 0.85
+\Min int. gain: 0.5
+\Parameter Update Retract: Disabled
+\Parameter Update FB: Off
+\Capture mode : Previous
+\Gain Normalization: None
+\Gain Factor: 1
+\Initial Setpoint: 0.476279
+\Potential Feedback: Off
+\Potential Feedback Inter: Off
+\Frequency Feedback: Off
+\Frequency Feedback Inter: Off
+\Potential Type: Off
+\Potential Type Inter: Off
+\Freq. Control: User-defined
+\Freq. Control Inter: User-defined
+\Drive feedback: Disabled
+\Drive time: 0
+\Drive setpoint: 1
+\Drive gain: 80
+\Start size: 13199.8 nm
+\Pass 2 size: 10000 nm
+\Pass 3 size: 5000 nm
+\Pass 4 size: 2000 nm
+\Feature scan angle: 0
+\Feature Scan rate: 1
+\Feature step size: 0.138889
+\Feature setpoint: 0.8
+\Feature threshold: 2000
+\Pass delay: 5
+\Z offset: 0
+\Z tolerance: 3766.38
+\Engage X offset: 0 nm
+\Engage Y offset: 0 nm
+\Engage step size: 0.138889
+\Engage Z sens.: 12.5
+\Engage Z avg.: 10
+\Engage Z delay: 1
+\Height engage: Enabled
+\Extended Current sens: 1 pA/V
+\PF Extended Current sens: 20 pA/V LBW
+\Bias limit: 12 V
+\AFM Current Sensitivity: 1 nA/V
+\SECPM sens: 100 mV/V
+\Current range: 200 nA
+\Generic amp sens: 1 V/A
+\Z Range: 4.80123
+\Strip chart : Disabled
+\Strip Chart Rate: 1000
+\Strip Chart Size: 200
+\XY Closed Loop: Off
+\OptoXY Do Linear: Off
+\Z Closed Loop: Off
+\Analog2 High Voltage: 0
+\Analog22 High Voltage: 0
+\Output 1 Data Type: Off
+\Output 2 Data Type: Off
+\Meter display ctrl.: Hidden
+\Meter Display Mode: Vertical/Horiz
+\Stop motor: Disabled
+\Display level: 127
+\XY Feedback Control: Adaptive
+\Show Thermal Tune Button: Both
+\Show HSDC Button: Both
+\Show Point & Shoot Button: Both
+\Show Potential Controls: Neither
+\Show Frame Rate Control: Hidden
+\Show Repulsion Time Indicator: Hidden
+\Torsional Freq: 950
+\Torsional Q: 1000
+\Sample Rate: 10
+\Sample Points: 512
+\Cycles to Average: 32
+\Harmonics To Correct: 1
+\Max Harmonics: 20
+\Force Data Points: 64
+\Calculation Period: 60
+\Interaction Time: 0.24
+\Invert Torsional: Yes
+\Invert Vertical: Yes
+\Unload Fit Region: 0.7
+\Lift Height: 12.1225
+\Sync Distance: 173.2
+\Sync Distance New: 173.2
+\Sync Distance QNM: 172.81
+\Peak Force Engage Amplitude: 40
+\Peak Force Engage Setpoint: 1.2
+\Top Fit Region: 0.1
+\Peak Force Amplitude: 150
+\QNM Calibration: UserDDS3
+\Adhesion Algorithm: Threshold Crossing
+\Adhesion Fit %: 0.1
+\Cursor A: 0
+\Cursor B: 20
+\Fluid Cell: No
+\Medium: Fluid
+\Deformation Fit Region: 0.85
+\Tip Radius: 5
+\Sample Poisson's Ratio: 0.5
+\Tip Half Angle: 0.314159
+\Include Adhesion Force: Yes
+\Min Force Fit Boundary: 20
+\Max Force Fit Boundary: 80
+\Modulus Fit Model: Hertzian (Spherical)
+\ScanAsyst Setup: Allow
+\ScanAsyst Auto Control: Individual
+\ScanAsyst Auto Gain: Off
+\ScanAsyst Auto Setpoint: Off
+\ScanAsyst Auto Scan Rate: Off
+\ScanAsyst Auto Z Limit: Off
+\ScanAsyst Noise Threshold: 1
+\ScanAsyst AutoConfig Frames: 1
+\Scan Target Threshold: 0.005
+\Scan Acceptable Threshold: 0.1
+\Scan Max Optimizing Time: 30
+\Perfusion Cell Temperature: 
+\FalseDefl Scan DitheringBits: 0
+\Scan Single Frame Number: 1
+\Idle Depolarize Warning Time: 7200
+\Idle Depolarize Withdraw Time: 18000
+\Idle Depolarize Threshold: 0.05
+\Auto Adjust Rounding: Yes
+\Peak Current Average Region: 0.0001
+\I2C Test: Off
+\PFT Freq: 1 KHz
+\Tip Drive Noise Threshold: 0.2
+\Tip Drive PFT Amplitude: 100
+\ScanAsyst Min. Setpoint: 0.02
+\PeakForce Capture: Never
+\Reduced Z Delay: 2
+\Z Auto Center Boundary: 0
+\NanoTrack Path Simulation: Off
+\PseudoRT Path Simulation: Off
+\NanoTrack Max Row Shift: 10
+\NanoTrack Max Col Shift: 10
+\NanoTrack Channel: 1
+\NanoTrack Min Correlation: 0.8
+\@InterleaveList: S [InterleaveOffMode] "Disabled"
+\@LinearizeList: S [LinearizeOffMode] "modeLinearizeOff"
+\@DarkLiftList: S [] ""
+\@FPGA Z Feedback: S [] "On"
+\@MicroscopeList: S [SoftHarmoniX] "PeakForce QNM"
+\@LP Deflection: S [] "Enabled"
+\@LP TM Deflection: S [] "Enabled"
+\@LP Current: S [] "Enabled"
+\@LP Vertical Deflection: S [] "Enabled"
+\@Low Pass Frequency: S [] "Enabled"
+\@LP Friction: S [] "Disabled"
+\@LP TM Friction: S [] "Enabled"
+\@PicoAnglerPollOnOff: S [PicoAnglerPollOff] "Disabled"
+\@ThermalTuneMaxFreq: S [ThermalTuneData500K] "1 - 100 KHz"
+\@TipBiasCntrlList: S [TipBiasCntrlGround] "Ground"
+\@Sample Bias Control: S [] "Ground"
+\@HSADCMuxOnOff: S [HSADCMuxAny] "modeHSADCMuxAny"
+\@HsdcChanADataType: S [HsdcDataTypeOff] "Off"
+\@HsdcChanBDataType: S [HsdcDataTypeOff] "Off"
+\@FastScan List: S [] ""
+\@FastZFeedback List: S [DigitalZFastScan] "Digital"
+\@TR Mode: S [] "Disabled"
+\@VerticalGainControlList: S [] "Disabled"
+\@SCM Feedback: S [] ""
+\@4:HsdcChanCDataType: S [HsdcDataTypeOff] "Off"
+\@3:HsdcChanCDataType: S [HsdcDataTypeOff] "Off"
+\@4:HsdcChanDDataType: S [HsdcDataTypeHeight] "Height"
+\@3:HsdcChanDDataType: S [HsdcDataTypeOff] "Off"
+\@4:HsdcTriggerChan: S [HsdcDataTypeHeight] "Height"
+\@3:HsdcTriggerChan: S [HsdcDataTypeHeight] "Height"
+\@4:SPMFeedbackList: S [SPMFb] "Peak Force"
+\@3:SPMFeedbackList: S [SPMFb] "Peak Force"
+\@4:DDS1RoutingTappingMode: S [] "Null"
+\@5:DDS1RoutingTappingMode: S [] "Null"
+\@4:DDS1RoutingFastScanAsystMode: S [] ""
+\@5:DDS1RoutingFastScanAsystMode: S [] ""
+\@4:Drive1Routing: S [] "Null"
+\@3:Drive1Routing: S [] "Null"
+\@4:Drive1Monitor: S [] "Not Available"
+\@3:Drive1Monitor: S [] "Not Available"
+\@4:MainLockInEnableContactMode: S [LockIn1Disabled] "Disabled"
+\@3:MainLockInEnableContactMode: S [LockIn1Disabled] "Disabled"
+\@4:MainLockInEnableFastScanAsystMode: S [] ""
+\@5:MainLockInEnableFastScanAsystMode: S [] ""
+\@4:MainLockInEnableNonContactMode: S [] ""
+\@5:MainLockInEnableNonContactMode: S [] ""
+\@4:LockIn1SourceTappingMode: S [] "Disabled"
+\@5:LockIn1SourceTappingMode: S [] "Vertical"
+\@4:LockIn1SourceFastScanAsystMode: S [] "Disabled"
+\@5:LockIn1SourceFastScanAsystMode: S [] ""
+\@4:MainLockInSource: S [] "Disabled"
+\@3:MainLockInSource: S [] "Disabled"
+\@4:Zmod: S [] ""
+\@5:Zmod: S [] ""
+\@4:LateralGainControl: S [LateralGainDisabled] "Disabled"
+\@3:LateralGainControl: S [LateralGainDisabled] "Disabled"
+\@4:InputFbList: S [InputFbOff] "Off"
+\@3:InputFbList: S [InputFbOff] "Off"
+\@4:TR Mode: S [] "Disabled"
+\@5:TR Mode: S [] "Disabled"
+\@4:TRCouplingCheck: S [] ""
+\@5:TRCouplingCheck: S [] ""
+\@4:LockIn2DDS2Enable: S [LockIn2Disabled] "Disabled"
+\@3:LockIn2DDS2Enable: S [LockIn2Disabled] "Disabled"
+\@4:DDS2HarmonicList: S [] "1"
+\@5:DDS2HarmonicList: S [] "1"
+\@4:LockIn2Source: S [] "Disabled"
+\@3:LockIn2Source: S [] "Disabled"
+\@4:Drive2Routing: S [] "Null"
+\@3:Drive2Routing: S [] "Null"
+\@4:Drive2Monitor: S [] "Not Available"
+\@3:Drive2Monitor: S [] "Not Available"
+\@4:PRLockInTypeList: S [] ""
+\@5:PRLockInTypeList: S [] ""
+\@4:PiezoACBiasCtrlList: S [] ""
+\@5:PiezoACBiasCtrlList: S [] ""
+\@4:VerticalGainControlList: S [] "Enabled"
+\@5:VerticalGainControlList: S [] "Enabled"
+\@4:SCM Feedback: S [] ""
+\@5:SCM Feedback: S [] ""
+\@4:TUNAList: S [TUNAOffMode] "Disabled"
+\@5:TUNAList: S [TUNAOffMode] "Disabled"
+\@4:Drive3RoutingSoftHarmoniX: S [] "Z Offset"
+\@3:Drive3RoutingSoftHarmoniX: S [] "Z Offset"
+\@4:Drive3Routing: S [] ""
+\@5:Drive3Routing: S [] ""
+\@4:Drive3Monitor: S [] "Not Available"
+\@3:Drive3Monitor: S [] "Not Available"
+\@4:LockIn3EnableList: S [LockIn3Enabled] "Enabled"
+\@3:LockIn3EnableList: S [LockIn3Disabled] "Disabled"
+\@4:LockIn3SourceSoftHarmoniX: S [] "Vertical"
+\@3:LockIn3SourceSoftHarmoniX: S [] "Disabled"
+\@4:LockIn3SourceNonSoftHarmoniX: S [] "Vertical"
+\@5:LockIn3SourceNonSoftHarmoniX: S [] "Vertical"
+\@Sens. DeflSens: V 11.50295 nm/V
+\@Sens. AmplSens: V 12.09000 nm/V
+\@Sens. DeflectionIn1BSens: V 1.000000 
+\@Sens. FVForceSens: V 1.000000 nN/Arb
+\@Sens. FVModulusSens: V 1.000000 Pa/Arb
+\@Sens. FVLogModulusSens: V 1.000000 log(Pa)/log(Arb)
+\@Sens. FVStiffnessSens: V 1.000000 N/m*Arb
+\@Sens. ECBiasSens: V 1000.000 mV/V
+\@Sens. AFMSetFastScanSens: V 1.000000 V/V
+\@Sens. ZsensSens: V 360.0798 nm/V
+\@Sens. ZPicoSens: V 1000.000 nm/V
+\@Sens. LSPRDataSensitivity: V 1.000000 
+\@Sens. LSPRAmplitudeSensitivity: V 1.000000 
+\@Sens. HSPRDataSensitivity: V 1.000000 
+\@Sens. HSPRAmplitudeSensitivity: V 1.000000 
+\@Sens. tunaSens: V 10.00000 pA/V
+\@Sens. biassens: V 1.000000 V/V
+\@Sens. testsens: V 1.000000 V/V
+\@Sens. Amplitude Error: V 12.09000 nm/V
+\@Sens. Phase: V 1.000000 
+\@Sens. Phase Error: V 1.000000 
+\@Sens. Friction: V 1.000000 
+\@Sens. TM Deflection: V 12.09000 nm/V
+\@Sens. TM Friction: V 1.000000 
+\@Sens. Inphase: V 1.000000 
+\@Sens. Quadrature: V 1.000000 
+\@Sens. Amplitude1: V 1.000000 
+\@Sens. Raw Deflection: V 1.000000 
+\@Sens. Raw Deflection Gain: V 1.000000 
+\@Sens. Counter 1: V 1.000000 
+\@Sens. Counter 2: V 1.000000 
+\@Sens. Freq. 1: V 1.000000 
+\@Sens. Freq. 2: V 1.000000 
+\@Sens. Fast Z Analog: V 1.000000 
+\@Sens. Fast Z: V 1.000000 
+\@Sens. Fast RMS: V 1.000000 
+\@Sens. Fast Deflection Analog: V 1.000000 
+\@Sens. Fast Deflection Error: V 1.000000 
+\@Sens. Frequency: V 1.000000 
+\@Sens. Potential: V 1.000000 
+\@Sens. Potential (HV): V 1.000000 
+\@Sens. dCdZ: V 1.000000 
+\@Sens. TR Amplitude: V 1.000000 
+\@Sens. TR Amplitude Error: V 1.000000 
+\@Sens. TR Phase: V 1.000000 
+\@Sens. Amplitude2: V 1.000000 
+\@Sens. HS PR Phase: V 1.000000 
+\@Sens. MFM Amplitude: V 1.000000 
+\@Sens. MFM Phase: V 1.000000 
+\@Sens. dC/dV Amplitude: V 1.000000 
+\@Sens. dC/dV Amplitude Error: V 1.000000 
+\@Sens. dC/dV I: V 1.000000 
+\@Sens. dC/dV Q: V 1.000000 
+\@Sens. dC/dV Phase: V 1.000000 
+\@Sens. Feedback Bias: V 1.000000 
+\@Sens. Log(Resistance): V 1.000000 
+\@Sens. Input1: V 1.000000 
+\@Sens. Input2: V 1.000000 
+\@Sens. Input3: V 1.000000 
+\@Sens. DriveAmplitude3Sens: V 1738.117 nm/V
+\@Sens. ForceDeflSens: V 4.723362 nN/V
+\@Sens. ForceSens: V 0.02834017 nN/Arb
+\@Sens. DissipationSens: V 1537.238 eV/Arb
+\@Sens. DeformationSens: V 8690.585 nm/V
+\@Sens. StiffnessSens: V 1.153391 MPa/Arb
+\@Sens. LogStiffnessSens: V 1.000000 log(Pa)/log(Arb)
+\@Sens. SneddonModulusSens: V 2.282600 MPa/Arb
+\@Sens. LogSneddonModulusSens: V 1.000000 log(Pa)/log(Arb)
+\@Offset PotentialInputOffset: V [Sens. Potential] (0.0003051758 V/LSB)       0 V
+\@Sample period: V (0.1000000 us/LSB) 25.00000 us
+\@Z center: V [Sens. Zsens] (0.006713867 V/LSB) -76.96106 V
+\@1:ZLimit: V [Sens. Zsens] (0.006713867 V/LSB) 29.57294 V
+\@1:ZLimitRamp: V [Sens. Zsens] (0.006713867 V/LSB) 29.57294 V
+\@1:ForceLimit: V [Sens. ForceSens] (0.06250000 Arb/LSB) 4096.000 Arb
+\@1:DissipationLimit: V [Sens. DissipationSens] (0.06250000 Arb/LSB) 1024.000 Arb
+\@1:DeformationLimit: V [Sens. DeformationSens] (0.0000610352 V/LSB) 0.4660540 V
+\@1:StiffnessLimit: V [Sens. StiffnessSens] (0.06250000 Arb/LSB) 1024.000 Arb
+\@1:LogStiffnessLimit: V [Sens. LogStiffnessSens] (0.0004882813 log(Arb)/LSB) 32.00000 log(Arb)
+\@1:SneddonModulusLimit: V [Sens. SneddonModulusSens] (0.06250000 Arb/LSB) 128.0000 Arb
+\@1:LogSneddonModulusLimit: V [Sens. LogSneddonModulusSens] (0.0004882813 log(Arb)/LSB) 32.00000 log(Arb)
+\@1:FVModulusLimit: V [Sens. FVModulusSens] (1525879 Arb/LSB) 3051758 Arb
+\@1:LogFVModulusLimit: V [Sens. FVLogModulusSens] (0.0004882813 log(Arb)/LSB) 3.200000 log(Arb)
+\@1:FVForceLimit: V [Sens. FVForceSens] (0.01525879 Arb/LSB) 65.53600 Arb
+\@1:FVStiffnessLimit: V [Sens. FVStiffnessSens] (0.01525879 Arb/LSB) 655.3600 Arb
+\@1:AmplitudeLimit1: V (0.0000009313 mV/LSB) 4000.000 mV
+\@1:TRAmplitudeLimit: V (0.0000009313 mV/LSB) 2500.000 mV
+\@1:SCMAmplitudeLimit: V (0.0000009313 mV/LSB) 4000.000 mV
+\@2:AmplitudeLimit1LockIn1and2: V (0.0000009313 mV/LSB) 4000.000 mV
+\@2:AmplitudeLimit1LockIn1: V (0.0000009313 mV/LSB) 4000.000 mV
+\@2:AmplitudeLimit1LockIn2: V (0.0000009313 mV/LSB) 4000.000 mV
+\@2:DeflectionLimitLockIn3LSADC1: V (0.0000000057 V/LSB) 24.57600 V
+\@2:DeflectionLimit: V (0.0000000057 V/LSB) 24.57600 V
+\@2:TMDeflectionLimitLockIn3LSADC1: V (0.0000000057 V/LSB) 24.57600 V
+\@2:TMDeflectionLimit: V (0.0000000057 V/LSB) 24.57600 V
+\@2:HSADC2GainLockIn2and1: V (0.0000009313 mV/LSB) 4000.000 mV
+\@2:HSADC2GainLockIn2: V (0.0000009313 mV/LSB) 4000.000 mV
+\@2:HSADC2GainLockIn1: V (0.0000009313 mV/LSB) 4000.000 mV
+\@2:LSADC2Gain: V (0.0000000057 V/LSB) 24.57600 V
+\@2:LSADC9Gain: V (0.0000000057 V/LSB) 24.57600 V
+\@Lift Start Height: V [Sens. Zsens] (0.0004511699 V/LSB)       0 V
+\@Lift Scan Height: V [Sens. Zsens] (0.0004511699 V/LSB) 3.017883 V
+\@Drive height: V [Sens. Zsens] (0.0004511699 V/LSB)       0 V
+\@2:AFMSetDeflection: V [Sens. DeflSens] (0.0003662109 V/LSB) 0.07983398 V
+\@3:AFMSetDeflection: V [Sens. DeflSens] (0.0003662109 V/LSB) 0.5000000 V
+\@2:TMSetAmplitude: V [Sens. AmplSens] (0.01525879 mV/LSB) 250.0000 mV
+\@3:TMSetAmplitude: V [Sens. AmplSens] (0.01525879 mV/LSB)       0 mV
+\@2:TMSetDeflection: V [Sens. DeflSens] (0.0003662109 V/LSB)       0 V
+\@3:TMSetDeflection: V [Sens. DeflSens] (0.0003662109 V/LSB)       0 V
+\@2:TMSetFastScan: V (0.0003662109 V/LSB)       0 V
+\@3:TMSetFastScan: V (0.0003662109 V/LSB)       0 V
+\@2:AFMSetFastScanAnalog: V [Sens. AFMSetFastScanSens] (0.0003662109 V/LSB)       0 V
+\@3:AFMSetFastScanAnalog: V [Sens. AFMSetFastScanSens] (0.0003662109 V/LSB)       0 V
+\@2:AFMSetFastScanDigital: V [Sens. AFMSetFastScanSens] (0.0003662109 V/LSB)       0 V
+\@3:AFMSetFastScanDigital: V [Sens. AFMSetFastScanSens] (0.0003662109 V/LSB)       0 V
+\@2:STMSetCurrent: V [Sens. CurrentSens] (0.0003750000 V/LSB) 0.1000000 V
+\@3:STMSetCurrent: V [Sens. CurrentSens] (0.0003750000 V/LSB) 10.00000 V
+\@2:TRSetAmplitude: V (0.01525879 mV/LSB) 270.0000 mV
+\@3:TRSetAmplitude: V (0.01525879 mV/LSB) 270.0000 mV
+\@2:SetTRVertDefl: V (0.0003662109 V/LSB)       0 V
+\@3:SetTRVertDefl: V (0.0003662109 V/LSB)       0 V
+\@2:SECPMSetPotential: V [Sens. SECPMSens] (0.0003750000 V/LSB) 2.000000 V
+\@3:SECPMSetPotential: V [Sens. SECPMSens] (0.0003750000 V/LSB) 2.000000 V
+\@2:TMSetPhase: V (0.005493164 Ί/LSB)       0 Ί
+\@3:TMSetPhase: V (0.005493164 Ί/LSB)       0 Ί
+\@2:DigitalSetPoint: V [Sens. DeflectionIn1BSens] (0.0003750000 V/LSB) 0.2500000 V
+\@3:DigitalSetPoint: V [Sens. DeflectionIn1BSens] (0.0003750000 V/LSB) 0.2500000 V
+\@2:TRSetPhase: V (0.005493164 Ί/LSB)       0 Ί
+\@3:TRSetPhase: V (0.005493164 Ί/LSB)       0 Ί
+\@2:SoftHarmoniXSetpoint: V [Sens. ForceDeflSens] (0.0003750000 V/LSB) 0.07425000 V
+\@3:SoftHarmoniXSetpoint: V [Sens. ForceDeflSens] (0.0003750000 V/LSB)       0 V
+\@2:NanoTrenchSetPoint: V (0.0003750000 V/LSB)       0 V
+\@3:NanoTrenchSetPoint: V (0.0003750000 V/LSB)       0 V
+\@2:Sample Bias: V (0.3051758 mV/LSB)       0 mV
+\@3:Sample Bias: V (0.3051758 mV/LSB)       0 mV
+\@2:Tip Bias: V (0.0003662109 V/LSB)       0 V
+\@3:Tip Bias: V (0.0003662109 V/LSB)       0 V
+\@2:Analog2: V (0.0003662109 V/LSB)       0 V
+\@3:Analog2: V (0.0003662109 V/LSB)       0 V
+\@2:CantFrequency: V (0.0000116415 kHz/LSB) 320.0000 kHz
+\@3:CantFrequency: V (0.0000116415 kHz/LSB) 0.5000000 kHz
+\@2:CantFrequencyContactMode: V (0.0000116415 kHz/LSB) 60.00000 kHz
+\@3:CantFrequencyContactMode: V (0.0000116415 kHz/LSB) 0.5000000 kHz
+\@2:CantDrive: V (0.3051758 mV/LSB) 16.78470 mV
+\@3:CantDrive: V (0.3051758 mV/LSB)       0 mV
+\@2:CantDriveContactMode: V (0.3051758 mV/LSB)       0 mV
+\@3:CantDriveContactMode: V (0.3051758 mV/LSB)       0 mV
+\@2:CantDriveNulled: V (0.3051758 mV/LSB)       0 mV
+\@3:CantDriveNulled: V (0.3051758 mV/LSB)       0 mV
+\@2:DriveDCOffsetTappingMode: V (0.0003051758 V/LSB)       0 V
+\@3:DriveDCOffsetTappingMode: V (0.0003051758 V/LSB)       0 V
+\@2:DriveDCOffsetNonTapping: V (0.0003051758 V/LSB)       0 V
+\@3:DriveDCOffsetNonTapping: V (0.0003051758 V/LSB)       0 V
+\@2:DriveDCOffsetFastScanAsyst: V (0.0003051758 V/LSB)       0 V
+\@3:DriveDCOffsetFastScanAsyst: V (0.0003051758 V/LSB)       0 V
+\@2:ReferenceFrequencyTappingMode: V (0.0000116415 kHz/LSB) 320.0000 kHz
+\@3:ReferenceFrequencyTappingMode: V (0.0000116415 kHz/LSB) 0.5000000 kHz
+\@2:ReferenceFrequency1: V (0.0000116415 kHz/LSB) 60.00000 kHz
+\@3:ReferenceFrequency1: V (0.0000116415 kHz/LSB) 0.5000000 kHz
+\@2:CantPhase: V (0.005493164 Ί/LSB) 76.80540 Ί
+\@3:CantPhase: V (0.005493164 Ί/LSB)       0 Ί
+\@2:CantPhaseContactMode: V (0.005493164 Ί/LSB)       0 Ί
+\@3:CantPhaseContactMode: V (0.005493164 Ί/LSB)       0 Ί
+\@2:LockInBW1: V (0.001000000 kHz/LSB) 4.964000 kHz
+\@3:LockInBW1: V (0.001000000 kHz/LSB) 0.5000000 kHz
+\@2:LockInBW1ContactMode: V (0.001000000 kHz/LSB) 0.2120000 kHz
+\@3:LockInBW1ContactMode: V (0.001000000 kHz/LSB) 0.5000000 kHz
+\@2:TRCantileverFrequency: V (0.0000116415 kHz/LSB) 1000.000 kHz
+\@3:TRCantileverFrequency: V (0.0000116415 kHz/LSB) 1000.000 kHz
+\@2:ReferenceFrequencyTRMode: V (0.0000116415 kHz/LSB) 0.5000000 kHz
+\@3:ReferenceFrequencyTRMode: V (0.0000116415 kHz/LSB) 0.5000000 kHz
+\@2:TROnAnalog3: V (0.0003051758 V/LSB) 10.00000 V
+\@3:TROnAnalog3: V (0.0003051758 V/LSB) 10.00000 V
+\@2:ReferenceFrequency2: V (0.0000116415 kHz/LSB) 0.5000000 kHz
+\@3:ReferenceFrequency2: V (0.0000116415 kHz/LSB) 0.5000000 kHz
+\@2:ReferenceFrequency2Harmonic: V (0.0000116415 kHz/LSB) 0.5000000 kHz
+\@3:ReferenceFrequency2Harmonic: V (0.0000116415 kHz/LSB) 0.5000000 kHz
+\@2:DrivePhase2: V (0.005493164 Ί/LSB)       0 Ί
+\@3:DrivePhase2: V (0.005493164 Ί/LSB)       0 Ί
+\@2:LockIn2BW: V (0.001000000 kHz/LSB) 0.2120000 kHz
+\@3:LockIn2BW: V (0.001000000 kHz/LSB) 0.5000000 kHz
+\@2:LockIn2BWHarmonic: V (0.001000000 kHz/LSB) 0.2110000 kHz
+\@3:LockIn2BWHarmonic: V (0.001000000 kHz/LSB) 0.2110000 kHz
+\@2:DriveFrequency2: V (0.0000116415 kHz/LSB) 0.5000000 kHz
+\@3:DriveFrequency2: V (0.0000116415 kHz/LSB) 0.5000000 kHz
+\@2:DriveAmplitude2: V (0.3051758 mV/LSB)       0 mV
+\@3:DriveAmplitude2: V (0.3051758 mV/LSB)       0 mV
+\@2:Drive2 DC Offset: V (0.0003051758 V/LSB)       0 V
+\@3:Drive2 DC Offset: V (0.0003051758 V/LSB)       0 V
+\@2:PRLowSpeedLockinBW: V (0.001000000 kHz/LSB) 0.3000000 kHz
+\@3:PRLowSpeedLockinBW: V (0.001000000 kHz/LSB) 0.3000000 kHz
+\@2:PRLowSpeedDriveAmplitude: V (0.6103516 mV/LSB) 2000.000 mV
+\@3:PRLowSpeedDriveAmplitude: V (0.6103516 mV/LSB) 2000.000 mV
+\@2:PRLowSpeedDriveFrequency: V (0.0000001164 kHz/LSB) 15.00000 kHz
+\@3:PRLowSpeedDriveFrequency: V (0.0000001164 kHz/LSB) 15.00000 kHz
+\@2:PRLowSpeedDrivePhase: V (0.005493164 Ί/LSB)       0 Ί
+\@3:PRLowSpeedDrivePhase: V (0.005493164 Ί/LSB)       0 Ί
+\@2:PRHighSpeedLockinBW: V (0.001000000 kHz/LSB) 0.7500000 kHz
+\@3:PRHighSpeedLockinBW: V (0.001000000 kHz/LSB) 0.7500000 kHz
+\@2:PRHighSpeedDriveAmplitude: V (0.3051758 mV/LSB) 2000.000 mV
+\@3:PRHighSpeedDriveAmplitude: V (0.3051758 mV/LSB) 2000.000 mV
+\@2:PRHighSpeedDriveFrequency: V (0.0000116415 kHz/LSB) 60.00000 kHz
+\@3:PRHighSpeedDriveFrequency: V (0.0000116415 kHz/LSB) 60.00000 kHz
+\@2:PRHighSpeedDrivePhase: V (0.005493164 Ί/LSB)       0 Ί
+\@3:PRHighSpeedDrivePhase: V (0.005493164 Ί/LSB)       0 Ί
+\@2:MFMLockinBW: V (0.001000000 kHz/LSB) 0.2110000 kHz
+\@3:MFMLockinBW: V (0.001000000 kHz/LSB) 0.2110000 kHz
+\@2:MFMDriveAmplitude: V (0.3051758 mV/LSB)       0 mV
+\@3:MFMDriveAmplitude: V (0.3051758 mV/LSB)       0 mV
+\@2:MFMDriveFrequency: V (0.0000116415 kHz/LSB) 0.5000000 kHz
+\@3:MFMDriveFrequency: V (0.0000116415 kHz/LSB) 0.5000000 kHz
+\@2:MFMDrivePhase: V (0.005493164 Ί/LSB)       0 Ί
+\@3:MFMDrivePhase: V (0.005493164 Ί/LSB)       0 Ί
+\@2:MFMDriveDCOffset: V (0.0003051758 V/LSB)       0 V
+\@3:MFMDriveDCOffset: V (0.0003051758 V/LSB)       0 V
+\@2:ACBiasAmpl: V (0.3051758 mV/LSB)       0 mV
+\@3:ACBiasAmpl: V (0.3051758 mV/LSB)       0 mV
+\@2:BiasFrequency: V (0.0000116415 kHz/LSB) 0.5000000 kHz
+\@3:BiasFrequency: V (0.0000116415 kHz/LSB) 0.5000000 kHz
+\@2:SCMLockInBW: V (0.001000000 kHz/LSB) 0.5000000 kHz
+\@3:SCMLockInBW: V (0.001000000 kHz/LSB) 0.5000000 kHz
+\@2:SCMLockInPhase: V (0.005493164 Ί/LSB)       0 Ί
+\@3:SCMLockInPhase: V (0.005493164 Ί/LSB)       0 Ί
+\@2:DCBias: V (0.0003051758 V/LSB)       0 V
+\@3:DCBias: V (0.0003051758 V/LSB)       0 V
+\@2:Capacitance Sensor Frequency: V (0.03204346 MHz/LSB) 880.0000 MHz
+\@3:Capacitance Sensor Frequency: V (0.03204346 MHz/LSB) 880.0000 MHz
+\@2:SCMIgain: V (0.001525879 1/LSB) 10.00000 
+\@3:SCMIgain: V (0.001525879 1/LSB) 10.00000 
+\@2:SCMPgain: V (0.001525879 1/LSB) 10.00000 
+\@3:SCMPgain: V (0.001525879 1/LSB) 10.00000 
+\@2:SCMFeedbackSetpoint: V (0.06103516 mV/LSB) 200.0000 mV
+\@3:SCMFeedbackSetpoint: V (0.06103516 mV/LSB) 200.0000 mV
+\@2:SCMFeedbackUpperLimit: V (0.0003051758 V/LSB) 6.000000 V
+\@3:SCMFeedbackUpperLimit: V (0.0003051758 V/LSB) 6.000000 V
+\@2:DC Test Bias: V [Sens. testsens] (0.0003051758 V/LSB)       0 V
+\@3:DC Test Bias: V [Sens. testsens] (0.0003051758 V/LSB)       0 V
+\@2:DC Sample Bias: V [Sens. biassens] (0.0003051758 V/LSB)       0 V
+\@3:DC Sample Bias: V [Sens. biassens] (0.0003051758 V/LSB)       0 V
+\@2:SampleBiasWithPiezo: V [Sens. biassens] (0.0003051758 V/LSB)       0 V
+\@3:SampleBiasWithPiezo: V [Sens. biassens] (0.0003051758 V/LSB)       0 V
+\@2:Bias Upper Limit: V (0.0003051758 V/LSB)       0 V
+\@3:Bias Upper Limit: V (0.0003051758 V/LSB)       0 V
+\@2:Bias Lower Limit: V (0.0003051758 V/LSB)       0 V
+\@3:Bias Lower Limit: V (0.0003051758 V/LSB)       0 V
+\@2:Feedback Igain: V (0.01525879 1/LSB)       0 
+\@3:Feedback Igain: V (0.01525879 1/LSB)       0 
+\@2:TunaFeedbackSetpoint: V [Sens. tunaSens] (0.0003750000 V/LSB)       0 V
+\@3:TunaFeedbackSetpoint: V [Sens. tunaSens] (0.0003750000 V/LSB)       0 V
+\@2:DriveFrequency3SoftHarmoniX: V (0.0000001164 kHz/LSB) 0.9765625 kHz
+\@3:DriveFrequency3SoftHarmoniX: V (0.0000001164 kHz/LSB) 0.005000000 kHz
+\@2:DriveFrequency3NonSoftHarmoniX: V (0.0000001164 kHz/LSB) 0.005000000 kHz
+\@3:DriveFrequency3NonSoftHarmoniX: V (0.0000001164 kHz/LSB) 0.005000000 kHz
+\@2:DriveAmplitude3SoftHarmoniX: V [Sens. DriveAmplitude3Sens] (0.3051758 mV/LSB)       0 mV
+\@3:DriveAmplitude3SoftHarmoniX: V [Sens. DriveAmplitude3Sens] (0.3051758 mV/LSB)       0 mV
+\@2:DriveAmplitude3NonSoftHarmoniX: V (0.3051758 mV/LSB)       0 mV
+\@3:DriveAmplitude3NonSoftHarmoniX: V (0.3051758 mV/LSB)       0 mV
+\@2:DriveAmplitude3NonSoftHarmoniX2X: V (0.6103516 mV/LSB)       0 mV
+\@3:DriveAmplitude3NonSoftHarmoniX2X: V (0.6103516 mV/LSB)       0 mV
+\@2:Drive3 DC Offset: V (0.0003051758 V/LSB)       0 V
+\@3:Drive3 DC Offset: V (0.0003051758 V/LSB)       0 V
+\@2:ReferenceFrequency3SoftHarmoniX: V (0.0000001164 kHz/LSB) 0.9765625 kHz
+\@3:ReferenceFrequency3SoftHarmoniX: V (0.0000001164 kHz/LSB) 0.005000000 kHz
+\@2:ReferenceFrequency3NonSoftHarmoniX: V (0.0000001164 kHz/LSB) 0.005000000 kHz
+\@3:ReferenceFrequency3NonSoftHarmoniX: V (0.0000001164 kHz/LSB) 0.005000000 kHz
+\@2:LockIn3BWSoftHarmoniX: V (0.001000000 kHz/LSB) 0.1050000 kHz
+\@3:LockIn3BWSoftHarmoniX: V (0.001000000 kHz/LSB) 0.005000000 kHz
+\@2:LockIn3BWNonSoftHarmoniX: V (0.001000000 kHz/LSB) 0.005000000 kHz
+\@3:LockIn3BWNonSoftHarmoniX: V (0.001000000 kHz/LSB) 0.005000000 kHz
+\@2:Analog3: V (0.0003051758 V/LSB)       0 V
+\@3:Analog3: V (0.0003051758 V/LSB)       0 V
+\@2:Analog4: V (0.0003051758 V/LSB)       0 V
+\@3:Analog4: V (0.0003051758 V/LSB)       0 V
+\@2:TR Drive Amplitude: V (0.3051758 mV/LSB)       0 mV
+\@3:TR Drive Amplitude: V (0.3051758 mV/LSB)       0 mV
+\@2:TR Lock-In Phase: V (0.005493164 Ί/LSB)       0 Ί
+\@3:TR Lock-In Phase: V (0.005493164 Ί/LSB)       0 Ί
+\@2:DrivePhase3NonSoftHarmoniX: V (0.005493164 Ί/LSB)       0 Ί
+\@3:DrivePhase3NonSoftHarmoniX: V (0.005493164 Ί/LSB)       0 Ί
+\@2:SSRMSampleBias: V (0.0003051758 V/LSB)       0 V
+\@3:SSRMSampleBias: V (0.0003051758 V/LSB)       0 V
+\@2:TMFbIgain: V (0.9375000 1/LSB) 0.5000000 
+\@3:TMFbIgain: V (0.9375000 1/LSB) 0.5000000 
+\@2:TMFbPgain: V (0.9375000 1/LSB) 5.000000 
+\@3:TMFbPgain: V (0.9375000 1/LSB) 5.000000 
+\@2:AFMFbIgain: V (0.3125000 1/LSB) 2.000000 
+\@3:AFMFbIgain: V (0.3125000 1/LSB) 2.000000 
+\@2:AFMFbPgain: V (0.3125000 1/LSB) 5.000000 
+\@3:AFMFbPgain: V (0.3125000 1/LSB) 5.000000 
+\@2:SoftHarmoniXFbIgain: V (0.3125000 1/LSB) 2.667702 
+\@3:SoftHarmoniXFbIgain: V (0.3125000 1/LSB) 10.00000 
+\@2:SoftHarmoniXFbPgain: V (0.3125000 1/LSB)       0 
+\@3:SoftHarmoniXFbPgain: V (0.3125000 1/LSB)       0 
+\@2:STMFbIgain: V (0.3125000 1/LSB) 1.000000 
+\@3:STMFbIgain: V (0.3125000 1/LSB) 1.000000 
+\@2:STMFbPgain: V (0.3125000 1/LSB) 2.000000 
+\@3:STMFbPgain: V (0.3125000 1/LSB)       0 
+\@2:STMESFbIgain: V (0.3125000 1/LSB) 10.00000 
+\@3:STMESFbIgain: V (0.3125000 1/LSB) 10.00000 
+\@2:STMESFbPgain: V (0.3125000 1/LSB)       0 
+\@3:STMESFbPgain: V (0.3125000 1/LSB)       0 
+\@2:DriveAmplitude4SoftHarmoniX: V (0.3051758 mV/LSB) 960.0830 mV
+\@3:DriveAmplitude4SoftHarmoniX: V (0.3051758 mV/LSB)       0 mV
+\@2:BaselineAvgPtsSoftHarmoniX: V (1.000000 1/LSB) 17.00000 
+\@3:BaselineAvgPtsSoftHarmoniX: V (1.000000 1/LSB) 32.00000 
+\@2:DeflLowPassFrequency: V (0.001000000 kHz/LSB) 2.500000 kHz
+\@3:DeflLowPassFrequency: V (0.001000000 kHz/LSB) 2.500000 kHz
+\@2:DeflLowPassFrequencySoftHarmoniX: V (0.001000000 kHz/LSB) 20.00000 kHz
+\@3:DeflLowPassFrequencySoftHarmoniX: V (0.001000000 kHz/LSB) 40.00000 kHz
+\@2:FricLowPassFrequency: V (0.001000000 kHz/LSB) 2.000000 kHz
+\@3:FricLowPassFrequency: V (0.001000000 kHz/LSB) 2.000000 kHz
+\@2:TMDeflLowPassFrequency: V (0.001000000 kHz/LSB) 2.500000 kHz
+\@3:TMDeflLowPassFrequency: V (0.001000000 kHz/LSB) 2.000000 kHz
+\@2:CurrentLowPassFrequency: V (0.001000000 kHz/LSB) 10.00000 kHz
+\@3:CurrentLowPassFrequency: V (0.001000000 kHz/LSB) 10.00000 kHz
+\@2:OtherModesLowPassFrequency: V (0.001000000 kHz/LSB) 2.000000 kHz
+\@3:OtherModesLowPassFrequency: V (0.001000000 kHz/LSB) 2.000000 kHz
+\@2:TMFricLowPassFrequency: V (0.001000000 kHz/LSB) 2.500000 kHz
+\@3:TMFricLowPassFrequency: V (0.001000000 kHz/LSB) 10.00000 kHz
+\@2:FastZTMFbIgain: V (0.03125000 1/LSB) 1.000000 
+\@3:FastZTMFbIgain: V (0.03125000 1/LSB) 1.000000 
+\@2:FastZTMFbPgain: V (0.03125000 1/LSB) 1.000000 
+\@3:FastZTMFbPgain: V (0.03125000 1/LSB)       0 
+\@2:InputIgain: V (0.001525879 1/LSB) 10.00000 
+\@3:InputIgain: V (0.001525879 1/LSB) 10.00000 
+\@2:InputPgain: V (0.001525879 1/LSB) 10.00000 
+\@3:InputPgain: V (0.001525879 1/LSB) 10.00000 
+\@2:TRFbIgain: V (0.3125000 1/LSB) 0.5000000 
+\@3:TRFbIgain: V (0.3125000 1/LSB) 0.5000000 
+\@2:TRFbPgain: V (0.3125000 1/LSB) 5.000000 
+\@3:TRFbPgain: V (0.3125000 1/LSB) 5.000000 
+\@2:VertDeflLowPassFrequency: V (0.001000000 kHz/LSB) 10.00000 kHz
+\@3:VertDeflLowPassFrequency: V (0.001000000 kHz/LSB) 10.00000 kHz
+\@2:TRLockInBW1: V (0.001000000 kHz/LSB) 150.0000 kHz
+\@3:TRLockInBW1: V (0.001000000 kHz/LSB) 150.0000 kHz
+\@2:DrivePhase3SoftHarmoniX: V (0.005493164 Ί/LSB)       0 Ί
+\@3:DrivePhase3SoftHarmoniX: V (0.005493164 Ί/LSB)       0 Ί
+\@2:Output 1 Input Data: S [ImageOff] "Off"
+\@2:Output 2 Input Data: S [ImageOff] "Off"
+\@2:Output 1 Output Data: S [Analog3] "Analog3"
+\@2:Output 2 Output Data: S [Analog3] "Analog3"
+\@LogStiffnessOffset: V [Sens. LogStiffnessSens] (0.0004882813 log(Arb)/LSB) 6.062012 log(Arb)
+\@LogSneddonModulusOffset: V [Sens. LogSneddonModulusSens] (0.0004882813 log(Arb)/LSB) 6.358398 log(Arb)
+\*Ciao force list
+\Scan rate: 0.500801
+\Forward vel.: 9.67732
+\Reverse vel.: 9.67732
+\Samps/line: 4096 4096
+\Samps/line, retrace: 4096
+\Ave lines: 1
+\Display mode: Both
+\Trigger mode: Relative
+\Rev. trigger mode: Off
+\Trig slope: Positive
+\Plot start: 0
+\Plot end: 1
+\Auto start: Disable
+\Start mode: Calibrate
+\User mode: Advanced
+\Ramp delay: 0
+\Reverse delay: 0
+\Indent setpoint: 0.5
+\X Rotate: 0
+\Scratch length: 100 nm
+\Scratch rate: 1
+\Scratch angle: 0
+\Size linked: Off
+\Lift height: 100
+\Drop height: 10
+\Columns: 5
+\Rows: 1
+\Column step: 100
+\Row step: 100
+\Capture: Enabled
+\XY Move Tip Pos: Lift
+\XY Move Lift Factor: 1.5
+\Volume offset: 0
+\force/line: 16 0
+\Samples / line: 256 0
+\Z direction: Retract
+\Fast retrace: Disable
+\Center plot: Off
+\FV scan rate: 0.0607711
+\Tip factor: 0
+\True resonance: 0
+\Deflection Sensitivity Correction: 1.08
+\Tip type: 100W
+\Unit display: Force
+\PF PGain	: 99.8779
+\PF ITime	: 1.00044
+\Linearization: Enabled
+\Closed Loop: Enabled
+\Polarity: Negative
+\Temperature (Celsius): 21
+\PSD Bin Width : 7.62939
+\Feedback type: None
+\Feedback counts: 0
+\Dark ramp: Disable
+\Dark ramp delay: 300
+\Gain Adjust for ZCL: 0.1
+\Ramp Mod Input: Off
+\Ramp Mod Sens: 10
+\Baseline Fit: 30
+\Baseline Extrapolation: 30
+\PFT Feedback Type: Peak Force
+\PFT Deflection Setpoint: 0
+\PFT Deflection Igain: 50
+\PFT Deflection Pgain: 50
+\@Ramp Position: V [Sens. Zsens] (0.006713867 V/LSB) 78.39188 V
+\@Sample period: V (0.1000000 us/LSB) 25.00000 us
+\@4:Image Data: S [DeflectionError] "Deflection Error"
+\@4:Trig threshold Deflection: V [Sens. DeflSens] (0.0003750000 V/LSB) 2.540563 V
+\@4:Threshold Safety Deflection: V [Sens. DeflSens] (0.0003750000 V/LSB) 2.540563 V
+\@4:Trig rev. threshold Deflection: V [Sens. DeflSens] (0.0003750000 V/LSB)       0 V
+\@4:Threshold step Deflection: V [Sens. DeflSens] (0.0003750000 V/LSB)       0 V
+\@4:Ramp channel: S [Zsweep] "Z"
+\@4:Ramp size Zsweep: V [Sens. Zsens] (0.0004511699 V/LSB) 9.661836 V
+\@4:Ramp offset Zsweep: V [Sens. Zsens] (0.0004511699 V/LSB) 3.241317 V
+\@4:Ramp Begin Zsweep: V [Sens. Zsens] (0.0004511699 V/LSB)       0 V
+\@4:Ramp End Zsweep: V [Sens. Zsens] (0.0004511699 V/LSB)       0 V
+\@4:Feedback value Zsweep: V [Sens. Zsens] (0.0004511699 V/LSB)       0 V
+\@4:Z display Zsweep: V [Sens. Zsens] (0.0004511699 V/LSB) 0.5566441 V
+\*Ciao force image list
+\Data offset: 40960
+\Data length: 16384
+\Bytes/pixel: 2
+\Start context: FOL
+\Data type: AFM
+\Data Type Description: 
+\Do zoffder: 0
+\Note: 
+\Plane fit: 0 0 0 0
+\Frame direction: Up
+\Capture start line: 0
+\Color Table Index: 12
+\Relative frame time: 0
+\Samps/line: 4096 4096
+\Scan Line: Main
+\Realtime Planefit: Line
+\Offline Planefit: None
+\Z direction: Retract
+\Force display mode: Normal
+\Spring Constant: 0.410622
+\Separation Scale: 0
+\Force offset: 0
+\Z magnew force: 1
+\Invert: Normal
+\Time channel: 0
+\Force TMR: 1.352329e-010
+\Scope coupling: DC
+\Smoothing filter: 0
+\Graph function: i
+\STS I range: 15000
+\STS DLI/DLV range: 10
+\STS DLI/DV range: 10
+\STS DI/DV range: 10
+\STS Log(i) range: 10
+\Ave points: 1
+\Force Phase Offset: 0
+\Effective BW: 4102.56
+\X Data Type: Ch 2: 
+\@4:Image Data: S [DeflectionError] "Deflection Error"
+\@Z magnify: C [4:Z scale] 1.000000 
+\@4:Z scale: V [Sens. DeflSens] (0.0003750000 V/LSB) 3.529529 V
+\@4:Z offset: V [Sens. DeflSens] (0.0003750000 V/LSB)       0 V
+\@4:Z input offset: V [Sens. DeflSens] (0.0003750000 V/LSB)       0 V
+\@4:FV scale: V [Sens. DeflSens] (0.0003750000 V/LSB) 2.500000 V
+\@4:Volume offset: V [Sens. DeflSens] (0.0003750000 V/LSB)       0 V
+\@4:Ramp channel: S [Zsweep] "Z"
+\@4:Ramp size: V [Sens. Zsens] (0.0004511699 V/LSB) 9.661836 V
+\@4:Ramp offset: V [Sens. Zsens] (0.0004511699 V/LSB) 3.241317 V
+\@4:Ramp Begin: V [Sens. Zsens] (0.0004511699 V/LSB)       0 V
+\@4:Ramp End: V [Sens. Zsens] (0.0004511699 V/LSB)       0 V
+\@4:Z display: V [Sens. Zsens] (0.0004511699 V/LSB) 0.5566441 V
+\*Ciao force image list
+\Data offset: 57344
+\Data length: 16384
+\Bytes/pixel: 2
+\Start context: FOL
+\Data type: AFM
+\Data Type Description: 
+\Do zoffder: 0
+\Note: 
+\Plane fit: 0 0 0 0
+\Frame direction: Up
+\Capture start line: 0
+\Color Table Index: 12
+\Relative frame time: 0
+\Samps/line: 4096 4096
+\Scan Line: Main
+\Realtime Planefit: Line
+\Offline Planefit: None
+\Z direction: Retract
+\Force display mode: Normal
+\Spring Constant: 0.410622
+\Separation Scale: 0
+\Force offset: 0
+\Z magnew force: 1
+\Invert: Normal
+\Time channel: 0
+\Force TMR: 6.464626e-008
+\Scope coupling: DC
+\Smoothing filter: 0
+\Graph function: i
+\STS I range: 15000
+\STS DLI/DLV range: 10
+\STS DLI/DV range: 10
+\STS DI/DV range: 10
+\STS Log(i) range: 10
+\Ave points: 1
+\Force Phase Offset: 0
+\Effective BW: 4102.56
+\X Data Type: Time
+\@4:Image Data: S [ZSensor] "Height Sensor"
+\@Z magnify: C [4:Z scale] 1.000000 
+\@4:Z scale: V [Sens. ZsensSens] (0.0003750000 V/LSB) 10.94754 V
+\@4:Z offset: V [Sens. ZsensSens] (0.0003750000 V/LSB)       0 V
+\@4:Z input offset: V [Sens. ZsensSens] (0.0003750000 V/LSB)       0 V
+\@4:FV scale: V [Sens. ZsensSens] (0.0003750000 V/LSB) 24.57600 V
+\@4:Volume offset: V [Sens. ZsensSens] (0.0003750000 V/LSB)       0 V
+\@4:Ramp channel: S [Zsweep] "Z"
+\@4:Ramp size: V [Sens. Zsens] (0.0004511699 V/LSB) 9.661836 V
+\@4:Ramp offset: V [Sens. Zsens] (0.0004511699 V/LSB) 3.241317 V
+\@4:Ramp Begin: V [Sens. Zsens] (0.0004511699 V/LSB)       0 V
+\@4:Ramp End: V [Sens. Zsens] (0.0004511699 V/LSB)       0 V
+\@4:Z display: V [Sens. Zsens] (0.0004511699 V/LSB) 0.5566441 V
+\*File list end
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  ώ4―4l4;4ϊ3Ί3z3$3ΰ2‘242	2³1p161π0Ζ0›0T0-0η/®//=/ύ.£.O..―-p-;--Φ,,D,,α+©+l+:+δ*¥*„*Q*4*$**η)©)d)&)Ò(“(O((ξ'Τ'Ή'›'…'Z''½&F&Ψ%e%	%¶$$W$7$&$$ $$#$+$$"$J$k$$v$R$$Π##J##Ϋ"Τ"Ύ"Ν"έ"#"###Ή"T"Ρ!S!Θ @ ί‹T00dή3  !r!›!¥!°!ª!‘!]!;!ϊ Λ ¨ x j W E E G [ M .  δΆNΙXθz/χ-NÒXί KM;2.1ϊτη®–fL1ζΝ6πΆ„kl…ΙZ―VeykVC)ÿτΨª|TυΔzHσιΪί?ªχ$KvxƒqQ4ντνμοψλίΟre4Ζ„wptsΡ_–ΉΟΑ·–og\C>IB@92ο·§g;	μω+K_o“ΝξλΧΒª ‰„¦‘—~n@οΣΎ•µ΄Δζ49Zb^U9/*((;-%ώνΚ°¥d\H@;<?M~£Ύ·΅­£¦¶µ«Ά½Ήª¥¤it]:9PDB272@Iw›qr…s~„΅ΌΔάΧΩΓΌ¥’}kroi]ID?C>SgΝο οά΄“€okl€~—¶ΙΦΟ­}yXvbWXH<EFWc–―ΌΒ°‰iXRDNW~£ΕΥΫάΠ³¤ „mfZ^Q7:5FHR`w‰zmQDB>*$(E_~‚undOMMSHH52:08ERkhsaIB7**5Wi£~p[JGPTQVCF@:0#4S\v†f:50"4-F`‡”΄ΏΗΏ§cZ?@653EISPA9@;,2+"'*CZf^]kSVTNJ=,3%* %Fe—¬­Ή―‹jZP::>=:Rcq{vj\A@2440,-$,)->RV\YZ]A=@/494EThs„~xrcPFF82F<43:D:HNTlS>>66301-:PnxZJN7;:5F:E<??EWXb\VeedVI?96FD4AP^ajytZC<5A6++35/25>D85<6A?H@3;916/2*)*(460'(/0==Uafotuf^ZZR@97HIB67(E>)&%)+-/3+$Ja\dbU\[_or‹……o`YT.++%-,-228>CK`bpfiu‚…†sniUJFLP79A=50<,6@9=Vbj^`X`XXRQUfVgW[MF<.:93/.7</$+2;BIOS[[\e`Z\LaQDACCBR==/'0/.>/73.:EP_SHYDIHKGTGJH98;8.;7)*,,),2406/8:>ED78@=54531:40#&!&$),.*19<=+219/0#69**,'%5422672.+%3529,.4*<;-540&/-31529>?9223:=BB82:6/L98D,/16B55A4-533==4>;A1&5-.4&8=6/B78=HH:/>:06.42674>5>=5:9A?8062/4:=<:/=6;:42,7; ;<@=4115*+2738:-6>3A/44>6/*2%6'2@2E?22*>A:89?<;;CAH?3A9>C?;416:5:3,;06BGC324;@2=4B7=C();996<=>@82627086C977@04/;:2=/.?88*/+?59;5O:.39:KD668B9=0;:154>?<;63469:>C77E?35:CDBD@@=HEJ>D:=3A9@<AD>?2C5=DC=KB<L<B<>7M@H7;?9C0E?B:=JAADK=H1=B<BEH==E@:>LPGGOGD=?BKLB?LD8DB>A?CC<<?G;EHGMB88=AA;?JBNPUJM?HL;HNGPHKEJOBDEDBK?GIEO>IJFAHDGIFAGI9HH:=A?BHGAG=MIKMEF@7BENH?6?@D;EHD?IILED9ALIEEG?KAOGEJE==H=@M@8?CCA<9;>6?@@<HBA@@G@>C;DGF<>>MJJQJPLGHBCHHJNIMGEH<DJA><L>BJK>BFDHAABJKCI>8@KKICRH:9J8FCSIKAJFKUAEDQJALFE??><GKLKLK?FCD@HEDDFNHOKCMZJG@LEGBF:D>KFJQDAB?PFBJNCQMHTJLBIJD@@?DE>HLEHIPNLINHSNTITQSSQFI=U[JJVFSPUNSI][MURSZLVXQRRNRPX^SPTOVXPSNNDQPIMLWXSPYQQSNQPRZ[\WM^ZPYZHUKRSLPRIVO]VVPVYQRSLV]T\XJWO\NPOBQWP`P]KQQUUUVQTYTQQT[LP\FRLLELPFGQSLMNTNTNDDGRLTSDHHRQQINQMKJLSXNKMTMNHJAUEMIGUIXMLVRJWOWHD[BPXSQQVFKKPRPXNH=PSTHKEJOTPRNRNKLNMGHSNUMMQOXNJMXMKUAOJKHMJKKGJQYTTXMMBZMWPTUNRRSRILEXJMLROLCQHHHPNI[VMRPLS`LUUZXYZSZYZJKDEHIMPGGUUHOILWGWRJGLOSLGNQPQVQLGJPJS>LWQRWRZUAJEWVJJPKUPRXUULSLKVOLYUQ\VW^XKNGH_VQPPSV\WSMTGZOUUAZX\PLZPVWUPbQRWTRO]ULLKOBJOSQJO[a\R]TOaSZYZU\\R][KM\fc[QVYVSYXdZZXUWQb\a[\[QSZRVOUVdW_[X]U^RZPW_`TT][M`^RFEBVXYWU\OSbcQYTQRKO]OSWRVMM^]YHTOWSZUWXT[[ZYU]][YcT[bYUYd]Z^\ZSO_UY[\TVTZcXXb[Y]Za\]fZZXf`_^UUVW\ZccjZ`\[\WaR[e^^[^]cc\\\YUc^Xb]aZ^ZX_cdc]`[l]cadcccaaaK`N]TX_]bRg[VYeZQb```X\dchaLXV\XYWab]`aSU_Ufdc`e]`ahYddchc^_fd_gbg\bW`Y\X^[jc]ZUZgZa^cb`q^hmgeff[f\\cf[[]]bfXe]bd^ksYjgbeWfa]c`p]lkiilhfkecja\X`jjj_djmmqfigol`ZddZ[]gedfaegerm\lf\abakflkgojeqkihadpkibdluhejslfcee_[kbdbdpcki]_lfa]]cgg`dadavceicjgbkhgY\gslecerefceodehl`Wee```a`dckeef`bfroZZcg^ahmine]d_Zbcaelghcbg`aahh_\`gjcolemnpcfhdjalglsehg_ga]ifqoz_naqffiWhekhjkarkkohojlfjmwejxrojkflgldkpi|uen_jaZdh`hjg_eeZiggjjg`a\Z^_edbecXol_Ykhdkadepe_eY^il]bdmg`^`a_]jnabnkemhhnqjhhglgcn`eog\e_[ajabgcl_b^cd_imhhidfiddonnjhjpkqlqpoghdnokhineiXcbZak^j_fdkjdefriubefifomkkifnvriiksnhios^iyokhiomhpffgkmjwuhjhwgiukw|{nkqurcsorkslpkakssqkqfuxndhmpultsoolitqhoypklv^kmnmdlfmkrie_dglhbq`qomasoxtswtwxvuvnxlrrlksootto{tvm€y~~suvurzopwojoqroogxlpejbrlpwluw}opnocolluzpmgwrmnppnwrrppsqfhbhujgiepcgnimjkbfmgkmvhnrlwjolmlv}~xqtvrtsn{v|wpsmgr{uupunyn{ozpsovdtqgqtpos‚r~yz{~ryyp|ttrkupckrmmin€q~tnl~tgvj{r€}sphszt€xxzv}sww|qrx…ƒ|yqwmpvmx{zyxzxlpxo}yowvy‡{~wz…{wzo‡{w{„y‚y|wo€r€}†€z…€|t„}xzyw…wu€}yrp{~ƒy}wv{|xwuz‚vu€|wx~}…‚nwz‰…q|†rw|zxy{€x†‚r€…}…yvt~|q}|z|‡†~‡|rxx„‡‰y†pyv|}~zvs„xyq}~…x‚€ptw{v~ynwx‚w{|}nq‚y{u}u~}uyyv‡ry{yss}|}„w~ts|vƒz€}||u}…€‚w{†xvuzwuyr||}n„{|„|yzuslrs‹}oo}}w~v†o|‚{}†‰pwu€~w„„~}v„‘ƒ†—„ƒƒ€|‰†‹‹€‹†‡€y‰…}{|yv„}z„v}’‹”†|†‰‹„{…~‹……‰z‰‰~ƒw†‚€………†‚{‚~‹}z†ƒ…}ƒƒy€|{€|†‰x|}{‹y€ƒ€†„…„‚~}‚x‚‰„……z|‚}…‚„{~}~€‘†‡‡€ƒƒ‚‰†„€‰w‰‰†‰„€‰ƒ‚“|‰…‡„”’‡†‹†‹}‡††„’}”‰‡…‘‰‰…ƒ„ƒ†…‰”‰‡‹ƒ‡‡…’‡ƒ„~|†‡‹ƒ„|‚‹|€ƒxƒ€ƒ€‡w‡†–‡‰‘ƒƒ‚~†~‰‰†‚‹vƒ…‘~…‰‘‚vƒ‰‚‚‡€‡w„‘‰‚ƒ“…ƒ„}…€…„†‚‹‹…”‹‚†{}~††…„€„‚‹…„†~}yz‰x}‘‘‘‹‹†™‘‰„‡ƒ‹’‰……‹‘‚‡}‡†“‚„‡ƒ‡‘‚’†„‹€ƒ‚}†…„ƒ†5ί4Ρ4Ό4—4q4K444υ3Ψ3·3~3\3.3λ2³2w202φ11X11Ϋ0΅0p0Y0800Σ/¦/r/;//²..O..θ-Α-z-L-,--Σ,Η,›,f,X,*,μ+ΐ+‚+B+&+Ψ*¤*‹*L*#*ι)Δ))D))Θ((]((χ'Τ'¶'‰'d'W'+''Ύ&›&d&;&&Ϊ%°%|%C%%δ$°${$@$$ή##n#2##½"­"o"."φ!­!v!:!!έ Ύ » ½ ¦   ’ j \ E C ? H 5  χΞ¦|LϊΡ¨^"γ΅SμU+4cªα5>&πΈ‚`V]_…sM)ςΟΏΐ«=¨µª³Σÿ'Z¨β8­=,λ…?Ω•¥ΐμ"'	Ξ‡Iη–;υ―­λAQzήKΜυύε¶ƒBώ1Mf]W%φΛªwE½rdtr®Σ\Ρ<K=χ¦F1`s—„Qω…E",C]s‘¶λ>v…{“¤ƒ`SH=(1<?ROIC;ωΚ―tCDd|§ΚδοI‘±θμθΨ«s1ώ3LRYF.ψ®¤ ®±ΌΒΔΖΑΙΡάψ#]ObSQZNWZdX=)) !ώώΜ΅΅¶°ΝΧάέΔΡΩΠχ6my€y„{mp\L@AL^PCQ.#όμάΡσ+MVXRZ}ΖΪίεΦΔΏ¤‰…niltmxqqjfejh’’•Ά ®«ªΉΠΥήώώώώρβΓΌΏ±¶ΔΜΩÒΌ “¬ΘΎαεΫοσγίεκρνΞΨΡΣΩσϊτνςίΪΛΛΗΧΟΡΥΰυσυύλσιδÒΚΖΊΣΗέτ#("ύύφ !ϋΰΧέπϊππ ϊυρύώ%$-#$-.ρξσλρ ϋςωψωτσυϊςπιζύοπφ$",ϋÿόώώϋώφϊπφώ!(ρκφφγμρς 	'-)*ϋλμνχ	ύÿÿχ #7V\X?, εαδμμσ 7AQH=0ρεηνυστ
+ÿ0:C>μγξ-k†¨—pR9&%((DVTD,ϊ"2+5;NAOEB.%" ! /:?:5?>9)(ÿ 
+
+*%!1;./ψÿρό	0 (#(47 !
+&!(.5410/%$%,&,?EJ5.'.25;7860&%!/&3*2=3?;81-(;-18JLO>6)"#& $%*/%+&%!-+)*2'%($.+D;/<>26)!&)1$(?AHHVV@96760+.'3''54BOWlb`MG=,/0&3#($*8,+%" )%1/DD' #ÿθύ $08>AB;6('!"')'":(%)($.50':(5/!.1*=4->9>4@+<761!$($)*0.-BD78#2%'0/30,:97,$*,(,.73,-*)"(/--9+/%=8C;955%402.7D=69'2&1;2,*-1/")&)+0",2+':0,+4(&8((+,7/***.'),)-#'+3.**&/A8638:-17=.(*,1*-%%*'&$"-'$"&*2"")$+(6182>*537/?+5=2?:'3B:6;8,+48A;417934G?D-6>DBG4;@>1A7.0CC76.>87522134=7.=13+/0/22)3-1((/.0/0-5=:1/,1..8%4622>349;1:*061?F6443;1"(-:;+,#102;;3>7,89C9::<<;88=<(@89;A9;CI?<4,>.;68D=>8:<?:A9<-5+897<9GC6<6FC:.63631:=:6=<425?@<:5>;C9924<;:<C979@82=??=7JJNC;A2AB8ACDGB@2??58C78DI9:>;><FCE8<J72;EHI@@KMD;DHABMCCBEDE>=F>H<=>@DCDEAH<<IHFA@CB=9>;>;54DCHHFJI?HJGOSDGDJH@ALHHVNGMKIBLDHICCIEIGGC;>FFALQBD??6C<CESNNAI?JB=A:<DHMKLPGOD:HQFILTROMGHC=DQIQDHFGGO?B7I@QRNPPD[J=;8MCL=OD<A;JJ@FGJA<EJ;D9=>GB+CB:>I=ZG5EPLLKO?MDC=ISGEPQLDHGOCMLHHFII4EH=PLFA@PIE@OF@7EBIAH>I;@:LDIC@CCSJB9:P?HPCE<A=<>EHIM<GGCE<G>UOEQJJCKFKE>NCQGJLQF@PPEMBHLB>GMMIIE=KOLKPLOGLLNPGJPDL>NPKVUPGTPCRQWHRKGI@MQK@<JCFLIUPKE@>QMCOPNGL=GMM=EGAJD@@CABKDVDKLBIIMDDJHMGG?KELL=F@NMOCF@<?MLEDGF;CM>JEGBFHDQQTRRHJBO3BJ>>CEFELKGKJ<MHPNKRUNKR>NN;?JQDNBFRGHFKQD@BI>IMQQBOLKHQIN;NNJCDMLHI9ASPLI>HISBND?MA=EH@AMKCI@RD@PAB:DE=SNHRRKQKXZGWIOXSUPFIM\UHPRJRABEUEKQBELHODVDDRFIRJRMRKNGIGEMQXGQ>DTL@HDJNGEJLLHIGHKMF@GNSHSJMCBFGQLPMWLKSMHNXQHJHMMIJJPRM<IFIGOH7CDJIC?F@HJ?JMGK@H@<EEFERLQTKVNJJHDE;7CGGFBGCBM>EIILWHMFLLICOGF9G@?IFGDMO<LJFFDQKI>PNGPII@GLHKIAHOQKFLFB>FHFENGP>RTLUVKK>MLVC?HMINHIJOYPTJJBJOHHKTGJYIOFLCO?LMKMRFDRLGNNJWPHQQQMOG?BMTRMRFQETRUGJAKXNYLPBYTLMSKLKYRPTNCRNTQTJLQPMMFK\PNTSZRJOTVRTKUK]PYQRISNTNXRRMQUQRRWQYQX\SNWOKV_XQMNJRPSKHKK[GSVS\PFMFNSOGNIRPTRTIGNPPFVONXXUWPKGFDNO[[^GXTSQMPRFKMZTMRYWMV\SVZVLHMVMH[LNWL\QSZQR[cT_VMTXUUZYLOO\a`QXNT\TNZU^HUNSOYKSa[QUWURVNLJOYNNVOSRab^b\WSOW^Y]VUR\QXUZ_URT^QXd`[TNV^LRO]VSQ[^`_U]aWUVW]^[RURWZUXZ]Vlha[\]`Wdd\X_Q\_OSPVQV[[YG\\XQYZ_VS[W]`aUaVSRNPXJVVZTcVQSWZZb\]]SXg`gdc[__cVh_R^ac^\S_]WaXPQ\e_T\Yg[M\Z]YYY\c^f]cQdcd`XYY_S^bebm[jchpZYhYhe_^^cid`eeQ^`\RZ_cYVZZ\ZZZpZ_gg[b\]jcRiggbbb[]biaVUc`\e`gm^bdYcba_V^e^cdiPYbqln`rjg````a_a\VT_cf^YbfZ_`_]b_]f`bdhZ]`Ubda\ac^egh`kiicbba[hi_cghoq`ldgcn`]cgjajih`fmh^_X[\lejgmdivdfaoidd`[[mofnch_dmmmgdjega^ecdmgtorvylnbjf\^gccnfoqgxbjillsvjoif_whijij{etrjshqv{rynwhqfngmnnmzo]pnxjc`^hgrrhkge^dddgtoxsmbpnierzjj_jkhlffgempsqirfqk]qmvhie[nidtxlowr`qtwlbggkgcek`vh}dfkljil_|pqrknnqpnelegkvlinaYlf_[^hlnfjcfkfcfhgdng\Wg^Zjab]g[^\^aagX_e_cggfi`ikcagnfgkidljrnikihc]mcdaadaphWekhm^qefbdeUkqde`gZjpgamfkijbidkqgpiggdg^almi^adlikhkshqpde\fwomrdikk^lWsj]icmeldjmgrpfqtkijefa[ehekylnhodlpqbdlnmepozpvgqxugpgqvyxxnqm}pspmgdyxzoiguinpsltqkymqjtmkpzwlngomhoppcedurjpldd{oemydtdindcmtmnktid`_ndj_okjinjqcpdmqu€pttxqtskmpvp{pgrjqeisnfjllnpmgegjqpupnhntxqvfremgyf~x{tsqgijrkpe`kklrwtohuapnu}nnpsonskpswvkexvlr{nlpmmqqpnwimqh_pivqwslokqldfhkoirjhfskrtrktsunresl`nptzrkpphimyolgqpiiuhjlrqmrsr^lrm‚tuwp{{vlngnjpuzm{}q{poftn^ntvsuronkmznvs|owzysknxkv…}ry|vnpqspqmyrrnvsoqklskmnnoggsmlqnpqt‚}qxmgqqulthwtg`qwtmtp~rslksrtlrptyz…u~yojdrkqrsk{rtszuwtrxsruwqo~szfmiiymwkvttut~yy€us{€€{‡ƒ‹swt|u|€syzvvwxq{yyy}}twrlv}ƒ}|ozuz€w{}w|zyty}luwuurl|~vvy~€„w|x~„|{oyv|€„€‚sw|{‚z{qpƒ|oz„k	j	g	e	c	a	_	]	Z	W	V	T	R	O	M	K	I	F	C	@	>	<	9	7	5	2	1	/	,	+	'	%	$	!																ÿώϋωχτρονμιθζδβίάΪΨΥΣΡΟΜΚΘΕΓΑΏ½»Ή¶΄²°­«©§¥Ά –“‹†„‚€}{zwurpnligeca^[ZXUSPOLJHFCA>=;86520.+)'$" 
+ώόϋψφτςπνμιζδβίάΪΨΥΣΡΟΜΛΙΖΔΒΏ½»Έ¶΄²°­¬¨§¥Ά ›™—•’‹‰†…‚}zxvsqomjhfdb`][YWTRPMKJGECA><:7531/-*'%" 
+ÿόϊψφσρονκθζδαίέΪΨΥΤÒΠΞΜΛΘΕΓΐΎΌΉ·µ³°®¬ª¨¦¤΅–”’‰‡…ƒ€~|ywtqnljhfec`^[XWTRPMLIGDBA><98520.+)'%#! ύϋωχυςρξλκθεβαήάΪΩΦΤΡΠΝΚΘΖΓΑΏ»ΉΈµ³²―­ª¨¦¤Ά–“‘‹†„‚}{yvtqomkigfca_][WUSPNLJGECA?=:87420-+)'%#!	ÿώϋωφυςπξλιηεγαίάΪΨΦΣΡΞΜΚΗΕΓΐΎΌΊ·µ΄³±®«ª§¤Ά ™—”’‰‡†„|zxutrpmlifdb`][XUSQOMKIFDB?=:97520-+)(%# 	ÿύϋωχτςομλιηδβΰήΫΩΧΥΣΠΞΜΙΗΕΒΑΏ½ΊΈ¶΄²°­«§¦Ά –“‘‰†ƒ}zxvtrpmjhfcb_][XVTRQNLJHFD@><97531/,*(&$"
+ÿόϊχυςομμιηζγαίάΪΨΦΣΠΞΝΚΘΖΓΑΏΌΊΈµ³°®­ª¨¥£΅™—•“‘‹‡…ƒ|zxusqolkhfdb_][XWURPNLJGEB?=;87420.,)'%#!
+ÿόϊψυσπομλιηεγΰήάΩΧΤÒΠΞΜΙΘΖΓΐΏΌΊΈµ³±―®«©§¥£ ›—”’†„‚€~|ywuspmkigeba^\YXTSPOLJHEC@><:87521/,)'%! 
+ώ ό ϋ ψ φ τ ς π ξ λ κ η δ β ΰ έ Ϋ Ψ Υ Τ Ò Π Ν Λ Ι Η Ε Β ΐ ½ Ό Ί · ΄ ³ ± ® ¬ ª § ¥ Ά      — – “ ‘   ‰ ‡ † „ ‚  ~ | y w u r p n k i g e c a _ ] [ X V S R O M K H F C B ? = ; 9 7 5 2 0 . + ( & # !            	      ÿÿύÿϋÿψÿυÿτÿςÿοÿξÿλÿιÿζÿγÿαÿίÿήÿΫÿΩÿΧÿΥÿΣÿΠÿΟÿΜÿΚÿΘÿΖÿΓÿΐÿΎÿ½ÿΊÿΈÿ¶ÿ΄ÿ±ÿ―ÿ­ÿ«ÿ©ÿ¦ÿ¤ÿΆÿ ÿÿ›ÿ™ÿ—ÿ•ÿ’ÿ‘ÿÿÿÿ‰ÿ†ÿƒÿ‚ÿÿ|ÿzÿwÿtÿsÿqÿnÿlÿjÿhÿfÿcÿaÿ^ÿ]ÿZÿXÿVÿSÿRÿNÿMÿKÿHÿFÿDÿBÿ?ÿ=ÿ:ÿ9ÿ7ÿ4ÿ2ÿ0ÿ.ÿ+ÿ)ÿ'ÿ$ÿ#ÿ!ÿÿÿÿÿÿÿÿÿÿÿ	ÿÿÿÿÿώύώϋώωώχώτώςώπώξώμώκώθώζώδώαώίώέώΫώΩώΦώΥώÒώΟώΞώΛώΘώΕώΔώΒώΏώ½ώ»ώΉώ·ώ΄ώ²ώ°ώ­ώ«ώ©ώ§ώ¤ώ£ώ ώώ›ώ™ώ—ώ•ώ’ώώώώ‰ώ‡ώ…ώ„ώ€ώ~ώ|ώzώxώuώsώqώoώnώlώjώgώeώbώ`ώ]ώ[ώYώVώUώRώPώNώKώJώHώFώCώAώ?ώ=ώ:ώ8ώ6ώ4ώ2ώ0ώ-ώ+ώ)ώ&ώ%ώ"ώ ώώώώώώώώώώ	ώώώώ ώÿύόύϊύχύυύσύπύούμύκύθύεύδύβύίύάύΪύΨύΦύΣύΡύΟύΜύΚύΘύΕύΓύΒύΐύΏύΌύΊύΈύ¶ύ΄ύ°ύ®ύ¬ύªύ¨ύ¦ύ£ύ΅ύύύ›ύ™ύ–ύ”ύ’ύύύ‹ύύ†ύ…ύƒύύύ|ύzύxύvύtύrύpύmύkύhύfύcύaύ^ύ[ύZύXύVύTύRύOύLύKύHύEύDύBύ?ύ=ύ;ύ9ύ7ύ4ύ2ύ0ύ.ύ,ύ*ύ&ύ%ύ"ύ!ύύύύύύύύύύύ
+ύύύύ ύώόόόωόχόυόσόπόοόμόκόθόζόδόβόίόέόΫόΩόΦόΤόÒόΠόΞόΜόΚόΗόΕόΓόΑόΏό½όΊό·όµό²ό°ό­ό«ό©ό§ό¥ό¤ό΅όόόό™ό–ό”ό‘όόό‹όό‡ό„ό‚ό€ό~ό{όyόvόtόsόpόnόkόiόgόeόbόaό_ό]όZόXόVόTόRόPόMόKόHόGόDόBό?ό>ό<ό8ό6ό5ό3ό1ό.ό,ό)ό(ό%ό#ό!όόόόόόόόόόό	όόόόÿϋόϋϋϋωϋφϋυϋσϋπϋξϋμϋιϋηϋεϋγϋαϋήϋΫϋΪϋΨϋΥϋΣϋΡϋΞϋΜϋΚϋΙϋΖϋΔϋΑϋΏϋΌϋΊϋΈϋ¶ϋ³ϋ²ϋ―ϋ­ϋ¬ϋªϋ¨ϋ¦ϋ¤ϋΆϋϋϋϋ—ϋ–ϋ“ϋ‘ϋϋϋ‹ϋϋ‡ϋ„ϋ‚ϋ€ϋ~ϋ{ϋyϋvϋtϋsϋqϋoϋlϋjϋhϋfϋcϋaϋ`ϋ]ϋ[ϋYϋVϋTϋQϋNϋLϋJϋIϋFϋDϋBϋ?ϋ>ϋ;ϋ9ϋ7ϋ4ϋ2ϋ/ϋ-ϋ+ϋ*ϋ'ϋ%ϋ#ϋ ϋϋϋϋϋϋϋϋϋϋ
+ϋϋϋϋϋÿϊύϊϋϊωϊψϊυϊσϊρϊξϊμϊιϊθϊεϊγϊαϊίϊάϊΪϊΨϊΦϊΤϊÒϊΠϊΝϊΛϊΙϊΗϊΔϊΓϊΐϊΏϊ»ϊΊϊΈϊ¶ϊ³ϊ±ϊ―ϊ¬ϊ«ϊ¨ϊ¦ϊ£ϊ΅ϊϊϊϊϊ•ϊ”ϊ’ϊϊϊ‹ϊϊ†ϊ…ϊ‚ϊ€ϊ}ϊ{ϊyϊwϊuϊsϊpϊnϊlϊjϊhϊfϊcϊaϊ_ϊ\ϊZϊXϊUϊRϊQϊOϊLϊKϊJϊGϊEϊCϊ@ϊ>ϊ<ϊ:ϊ7ϊ6ϊ3ϊ0ϊ/ϊ,ϊ*ϊ(ϊ&ϊ$ϊ"ϊ ϊϊϊϊϊϊϊϊϊϊ
+ϊϊϊϊϊÿωύωϋωψωφωσωρωξωμωιωηωζωδωβωίωέωΫωΩωΦωΤωΡωΟωΝωΛωΙωΗωΔωΓωΐωΎωΌωΊω·ω¶ω΄ω°ω®ω¬ω©ω§ω¥ω£ω΅ωωω›ωωω•ω“ω‘ωω‹ω‰ω‡ω…ω‚ωωω|ωzωxωvωtωsωpωmωlωiωfωdωbω`ω^ω\ωZωXωVωSωQωOωMωKωHωFωCω@ω?ω;ω:ω8ω5ω4ω2ω/ω-ω+ω(ω&ω$ω"ωωωωωωωωωωω	ωωωωωÿψόψϊψχψυψσψςψοψξψμψκψθψεψγψαψΰψάψΩψΧψΦψΣψΡψΟψΜψΛψΘψΗψΕψΒψΐψΎψ»ψΉψ·ψ΄ψ³ψ°ψ―ψ­ψªψ©ψ¦ψ¤ψ΅ψψψ›ψ™ψ–ψ“ψ’ψψψψψ†ψ„ψ‚ψ€ψ}ψ|ψyψwψvψrψpψnψlψjψgψeψdψ`ψ]ψ]ψ[ψXψVψSψQψOψMψKψHψFψDψBψ@ψ=ψ<ψ:ψ8ψ6ψ4ψ1ψ/ψ,ψ*ψ'ψ&ψ$ψ"ψψψψψψψψψψψ
+ψψψψψÿχύχϋχωχχχυχςχπχξχμχιχηχδχαχίχάχΫχΨχΧχΥχΣχΠχΞχΜχΚχΗχΕχΓχΑχΎχ½χ»χΈχ¶χ΄χ²χ―χ­χ«χ¨χ¦χ¤χΆχχχ›χ™χ—χ”χ’χχχχχ‰χ‡χ…χƒχ€χ}χ{χyχwχuχsχqχnχmχjχhχfχdχaχ_χ]χZχYχWχUχSχPχNχLχJχGχEχCχAχ?χ=χ:χ7χ6χ2χ0χ.χ,χ*χ(χ&χ$χ!χ χχχχχχχχχχ	χχχχχώφόφωφψφφφτφςφοφμφκφθφζφδφβφΰφήφέφΫφΩφΧφΤφΡφΞφΜφΚφΘφΕφΓφΑφΏφΎφ»φΉφ¶φµφ³φ±φ―φ¬φªφ¨φ¥φ¤φΆφφφφ™φ–φ”φ’φ‘φφφ‰φ‡φ„φφφ}φ{φyφxφvφsφqφnφmφjφhφfφcφaφ_φ]φZφXφWφTφRφPφNφKφIφGφDφBφ@φ>φ;φ:φ8φ5φ3φ2φ/φ-φ,φ*φ'φ%φ"φ φφφφφφφφφφφφφφφ φύυϋυωυχυφυσυπυουνυκυιυηυδυγυίυέυΫυΨυΥυΣυΡυΠυΝυΛυΙυΗυΔυΓυΐυΎυ»υΉυ·υµυ³υ±υ―υ¬υ«υ¨υ§υ¤υΆυ υυ›υ™υ—υ”υ’υυυ‹υ‰υ†υ…υƒυυυ}υ{υyυwυuυsυpυmυkυjυhυeυbυaυ_υ\υZυXυVυTυRυOυNυKυJυGυEυCυAυ?υ=υ;υ8υ6υ4υ2υ/υ-υ*υ(υ&υ#υ!υυυυυυυυυυυ
+υυυυυÿτότϊτψτφτττρτοτντλτθτητδτγτΰτέτΫτΩτΧτΦτΤτÒτΠτΞτΜτΙτΗτΔτΒτΏτΎτ»τΉτ·τµτ³τ±τ®τ¬τ«τ©τ¦τ¤τΆτ ττ›τ™τ—τ•τ“τ‘ττττ‰τ‡τ…τ‚ττ}τzτwτuτsτqτnτnτkτjτgτdτcτ`τ^τ[τZτWτUτTτQτOτMτKτIτGτDτBτ?τ=τ;τ8τ7τ5τ2τ1τ.τ,τ*τ(τ&τ$τ"τ!ττττττττττ
+τττττÿσύσϋσωσχσυσςσρσοσμσκσθσεσδσβσίσέσΫσΩσΧσΤσÒσΟσΜσΛσΘσΖσΔσΒσΐσΎσΌσΊσ·σµσ³σ±σ®σ¬σ«σ¨σ¦σ¤σΆσ σσ›σ™σ—σ•σ“σσσ‹σ‰σ‡σ…σ‚σ€σ~σ|σ{σyσwσuσsσqσnσlσiσhσfσdσbσ_σ]σ[σYσVσTσSσPσNσLσIσHσFσCσAσ?σ=σ;σ9σ6σ4σ2σ0σ/σ,σ*σ'σ%σ#σ σσσσσσσσσσσ	σσσσ σύςόςϊςχςφςσςρςξςνςκςθςζςγςβςίςάςΫςΨςΦςΥςÒςΠςΞςΝςΛςΘςΗςΔςΓςΐςΎςΌςΉςΈςµς³ς±ς®ς¬ςªς¨ς¦ς¤ςΆς ςς›ς™ς—ς•ς“ς‘ςςςς‰ς‡ς…ς‚ς€ς~ς{ςxςvςtςrςpςnςlςiςhςfςdςbς_ς]ς[ςYςWςTςRςPςOςMςKςIςDςBς@ς>ς;ς9ς7ς5ς3ς1ς/ς,ς*ς(ς&ς#ς!ς ςςςςςςςςςςς	ςςςς ςώρϋρωρχρυρςρρρξρμρκριρζρδρβρίρήρΫρΪρΧρΥρΣρΡρΞρΜρΙρΗρΕρΓρΐρΎρΌρΊρΈρ¶ρ΄ρ±ρ°ρ­ρ«ρ©ρ§ρ¥ρ£ρ ρρ›ρρ—ρ•ρ”ρ’ρρρρρ†ρ„ρ‚ρρ}ρ{ρyρwρvρtρrρpρnρkρiρhρdρbρ`ρ^ρ\ρYρXρUρSρQρOρMρKρIρGρEρBρAρ>ρ;ρ9ρ8ρ6ρ3ρ2ρ/ρ-ρ*ρ(ρ'ρ%ρ"ρ ρρρρρρρρρρ
+ρρρρρÿπύπϋπωπφπτπςπππξπμπιπηπεπγπαπήπέπΪπΨπΦπΤπΡπΟπΝπΛπΙπΗπΖπΓπΑπΏπ½π»πΈπ·π΄π²π°π®π¬π©π¨π¥π£π΅πππ›ππ—π•π’π‘πππππ…π„π‚ππ}π{πzπwπtπqπoπmπjπgπfπdπcπaπ_π]πYπXπUπSπQπOπMπJπIπGπDπBπ@π=π<π9π7π5π3π1π/π,π*π'π&π$π"πππππππππππ
+π	ππππ πύοόοϊοχουοτοςοοονολοθοηοδοβοαοήοάοΪοΨοΦοΣοÒοΠοΝοΛοΙοΗοΔοΑοΐοΎο»οΉο·οµο΄ο±ο―ο­οªο¨ο¦ο£οΆοοο›ο™ο—ο•ο“ο‘οοοοο…οƒοοο}ο{οxοvοtοrοqοoοmοkοhοgοeοbο_ο]ο\οYοWοUοSοPοNοMοJοHοFοDοAο@ο=ο<ο9ο7ο5ο3ο1ο0ο-ο+ο)ο(ο%ο"ο οοοοοοοοοο
+οοοοοÿξύξϊξψξχξτξςξπξξξμξιξθξζξδξαξίξέξΪξΩξΦξΣξÒξΟξΝξΛξΚξΗξΗξΔξΒξΐξΎξΌξΉξ·ξµξ²ξ°ξ®ξ¬ξ©ξ¨ξ¦ξ¤ξΆξξξξ™ξ—ξ•ξ“ξξξξ‹ξ‰ξ†ξ…ξξξ~ξ|ξzξxξvξrξpξmξlξiξhξfξcξbξ`ξ^ξZξYξWξUξSξPξNξLξJξHξFξCξBξ?ξ>ξ;ξ9ξ7ξ5ξ3ξ0ξ.ξ,ξ*ξ'ξ%ξ#ξ!ξξξξξξξξξξξ
+ξξξξξ ξύνόνωνχνυνσνρνονννκνινηνδνγνΰνήνάνΪνΧνΧνΣνÒνΠνΞνΛνΙνΖνΔνΑνΏν½νΊνΉνΈν¶ν³ν±ν―ν¬ν«ν¨ν¦ν¤νΆν ννν™ν–ν•ν’νννννν†ν„ννν}ν{νyνvνtνrνqνpνmνkνiνfνeνbν`ν^ν\νZνWνUνSνQνOνMνKνIνGνEνCν@ν>ν<ν:ν8ν6ν4ν2ν0ν.ν,ν*ν(ν&ν$ν"ννννννννννν	νννννώμόμϊμψμφμτμςμπμνμλμιμημεμγμΰμήμάμΩμΨμΥμΤμΡμΟμΜμΛμΙμΘμΕμΔμΒμΐμ½μ»μΈμ¶μ΄μ³μ°μ®μ¬μªμ¨μ¦μ£μ΅μμμμμ—μ”μ“μ‘μμμ‹μμ†μ…μƒμ€μ~μ|μzμxμuμrμpμoμkμjμhμeμdμbμ`μ^μ[μYμWμTμSμPμNμLμJμGμFμDμBμ?μ=μ;μ9μ7μ4μ3μ1μ/μ,μ*μ(μ&μ$μ!μ μμμμμμμμμμμ	μμμμμÿλόλϊλψλφλτλςλπλνλλλιληλελγλβλΰλέλΫλΨλΧλΦλΣλΠλΟλΜλΙλΗλΔλΒλΐλΎλΌλ»λΉλ¶λ΄λ²λ°λ®λ«λ©λ¨λ¥λ£λ΅λλλ™λλ–λ”λ’λλλ‹λ‰λ‡λ…λƒλλλ|λzλyλwλuλsλrλqλmλkλiλgλdλbλ`λ^λ\λZλXλVλTλQλOλMλKλIλGλDλBλAλ>λ<λ;λ8λ6λ5λ3λ0λ/λ,λ*λ(λ&λ$λ λλλλλλλλλλλ	λλλλλÿκόκϋκψκφκτκςκπκξκμκικηκεκγκακίκάκΫκΨκΦκΤκÒκΡκΟκΝκΛκΙκΘκΕκΒκΐκ½κ»κΉκ·κ¶κ΄κ²κ―κ­κ«κ¨κ§κ¤κ£κ κκκκκ–κ”κ’κ‘κκκκκ†κ„κ‚κκ~κ{κxκvκsκrκoκmκlκjκgκfκcκaκ_κ^κZκYκWκUκRκQκNκLκIκGκFκDκBκ@κ=κ;κ9κ6κ5κ2κ0κ.κ+κ*κ(κ&κ$κ"κ!κ κκκκκκκκκκ	κκκκ κÿιύιϋιωιχιτιριριξιμικιθιζιδιβιΰιήιάιΪιΧιΦιΣιΠιΟιΜιΚιΗιΕιΓιΒιΐιΎι»ιΉι¶ιµι³ι°ι―ι­ι«ι¨ι¦ι¤ιΆιιιι™ι—ι•ι“ι‘ιιιιι‡ι„ιι€ι~ι}ιzιyιwιuιsιpιnιkιjιgιeιcιaι^ι]ι[ιYιWιUιSιPιNιLιJιHιGιDιBι@ι?ι<ι:ι8ι6ι4ι2ι0ι-ι,ι)ι&ι$ι"ι ιιιιιιιιιι
+ι	ιιιι ιÿθόθϊθψθφθτθσθπθξθμθιθθθεθγθαθίθάθΫθΨθΧθΥθΣθÒθΟθΝθΛθΙθΗθΓθΒθΐθΏθΌθΊθΈθ¶θ΄θ³θ°θ®θ¬θªθ¨θ¥θ£θΆθθθ›θθ—θ”θ“θ‘θθθ‹θθ†θ„θ‚θθ}θ{θyθwθtθtθqθoθmθkθhθfθdθaθ`θ^θ[θZθXθUθSθQθOθMθKθIθGθDθBθ@θ>θ<θ:θ8θ5θ3θ2θ/θ.θ-θ+θ)θ&θ$θ"θ θθθθθθθθθθ
+θ	θθθθÿηώηύηϊηψηφητηςηρηξημηκηθηζηδηαηίηέηΫηΨηΦηΤηΡηΠηΞηΜηΚηΘηΕηΔηΑηΏη½ηΊηΉη·η¶η³η²η®η¬ηªη©η¦η£ηΆη ηηη™ηη•η“η‘ηηηηη‡η†η„η‚η€η}η{ηxηwηuηrηqηnηlηjηhηfηdηbη`η^η\ηZηWηVηSηRηPηMηLηJηGηEηDηBη?η>η;η9η7η4η1η0η-η+η)η(η&η$η!η ηηηηηηηηηη
+ηηηηη ηύζϋζϊζψζφζσζρζοζνζλζθζηζεζγζαζίζίζΫζΩζΧζΥζΣζΠζΟζΜζΚζΘζΖζΕζΒζΑζΎζΌζΊζΈζ¶ζ΄ζ²ζ°ζ­ζ¬ζ©ζ¨ζ¥ζ¤ζ΅ζζζζ™ζ—ζl	i	f	f	d	c	b	`	^	]	\	Z	Y	W	V	U	S	Q	O	N	L	J	H	G	D	C	B	@	>	=	<	9	8	7	5	3	1	0	.	-	,	)	(	&	$	#	!													
+	
+							ώϋϊωχυσροξμκθηεδβΰήάΩΩΧΥÒΡΟΞΜΚΙΗΕΓΑΏΎ»ΉΈ¶΄²°―­«ª¨§¤Ά΅›™•”’‘‹…„‚|{ywvusqomkjgedb`^\ZXWUSQONKJHFCB@?=;:86410-+)(&$" 	ÿώϋϊψφυςπξνκιηζδγαίέΫΩΧΦΣÒΠΞΜΙΙΖΔΒΑΎ½»Ή¶µ³±°­¬©©§¥£Ά›–•’‘‹‰†„ƒ|zxwusqpnljhfdca_][XVUSQQNMKJGECA?=;985310.,*)&$" ÿύόωψφτςρονκιηεδαΰέάΪΩΦΤΣΠΟΝΛΙΘΕΓΑΎ½»ΊΈ¶µ³²―­¬©§¦£΅ ›–”’‘‹‰†„‚€~|zzxutrpnlifeca_]\ZXVTSQOMLIGECA@><:86431/-+(&$#!	ÿύϋωχυσρονμιθζγααήέΫΩΧΥΣΠΝΜΚΘΗΔΒΐΏ½»Ή·µ³²°­¬ª¨¦¤Ά ™—•“‘‹‰‡†„‚|{ywusqomkigeca`^[YXUTRPOLJHGECA@=;86320.-+)'$#!
+ÿύϊψφτσροξμλθζεγΰίέΪΨΧΤΣΠΟΝΛΙΗΕΓΑΏ½»Ή·µ³±―­¬ª©¦¤Ά —•”‘‹……ƒ€|{ywvspomkigeda`][ZXUTRPONKIGECA?=<98642/.,*(&#" 	 ώόϊψφτςρονλιθεδαΰέΫΪΧΦΤÒΠΞΜΛΙΖΕΒΑΎΌΊΈ·µ΄²°®«ª¨¦¥Ά΅™–”“‹‰†…‚€~|{yvusppmkigdb_^][YWTSQOMKIGECB@=;:85420.,*(%#"	 ύϋωψφτςπξμκηζδγΰήέΪΩΧΥΣΡΠΝΚΘΖΔΑΐΎΌΊΈ·µ³±―­ª©§¥£Ά™—•“’…‚€}{ywusromkigfca`][YWUTQOMKIGEDA?=<:86530-+)'%#!
+ ώόϊψυτσςομλθζεβαΰίάΪΨΦΤÒΡΞΜΛΙΕΔΒΐΎΌΊΈ¶΄³±®¬ª§¦¤΅ ›—”“‡†ƒ‚~}zyutsqomkigec`_][YWUTROMKIGEDB@>=:87520.-+)&%# 	ÿ ώ ϋ ω χ υ ς π ξ λ ι θ η ε β ΰ ή ά Ϊ Ψ Χ Υ Σ Ρ Ξ Ν Λ Θ Η Ε Γ Α Ώ Ό » Ή Έ µ ΄ ± ― ­ « © § ¥ ¤ Ά ΅     – ” ’      ‡ „ ‚ €  | y x v t r p n l j h f d c a _ ^ [ Y V T R O N K I H E C B @ > ; : 9 6 4 3 1 . , * ) & $ # !           
+ 	       ÿÿύÿϋÿωÿχÿτÿςÿρÿξÿμÿκÿιÿηÿδÿβÿΰÿίÿάÿΪÿΩÿΦÿΤÿÒÿΠÿΞÿΜÿΚÿΗÿΖÿΕÿΔÿΑÿΏÿ½ÿ»ÿΈÿ¶ÿ΄ÿ±ÿ°ÿ®ÿ¬ÿªÿ¨ÿ¦ÿ¤ÿΆÿ ÿÿÿÿ™ÿ—ÿ”ÿ“ÿÿÿÿÿ‰ÿ†ÿ„ÿ‚ÿ€ÿ~ÿ}ÿ{ÿxÿvÿtÿrÿpÿnÿkÿjÿhÿfÿeÿdÿbÿ_ÿ]ÿ[ÿZÿXÿVÿSÿQÿOÿMÿKÿIÿFÿDÿCÿBÿ?ÿ=ÿ;ÿ8ÿ7ÿ5ÿ3ÿ1ÿ/ÿ-ÿ+ÿ)ÿ&ÿ%ÿ$ÿ"ÿ ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ ÿώώύώϋώωώφώυώσώρώοώνώμώκώηώεώγώαώίώέώάώΩώΨώΥώΣώΡώΞώΝώΛώΙώΘώΖώΔώΒώΐώΎώΌώΊώΉώ¶ώ΄ώ²ώ°ώ®ώ¬ώªώ¨ώ¦ώ¤ώΆώ ώώώώ—ώ–ώ”ώ’ώώώώ‰ώώ…ώ„ώ‚ώώ~ώ{ώzώxώvώsώqώnώmώkώiώgώeώcώaώ^ώ]ώ[ώYώWώUώSώRώPώNώLώJώGώFώDώBώ@ώ>ώ<ώ:ώ7ώ6ώ4ώ1ώ/ώ-ώ+ώ*ώ(ώ&ώ$ώ"ώ!ώώώώώώώώώώώ	ώ	ώώώώ ώώύϋύϊύχύυύτύςύούνύλύιύηύζύδύβύΰύήύάύΪύΧύΥύÒύΠύΞύΜύΚύΘύΖύΔύΓύΐύΏύ½ύ»ύΉύ·ύµύ³ύ±ύ―ύ­ύ¬ύ©ύ§ύ¥ύ¤ύ΅ύύύύ™ύ—ύ”ύ“ύ‘ύύύ‹ύ‰ύύ…ύ„ύ‚ύ€ύ~ύ|ύzύwύvύtύrύpύnύkύiύgύeύcύ`ύ_ύ\ύ[ύYύWύUύSύPύOύLύKύIύFύEύCύBύ?ύ>ύ;ύ9ύ7ύ4ύ1ύ0ύ.ύ,ύ*ύ'ύ&ύ$ύ"ύ ύύύύύύύύύύύ
+ύύύύύ ύώόόόϊόωόφότόςόπόξόμόκόθόηόδόγόβόίόέόΫόΪόΧόΤόΣόΡόΞόΜόΚόΘόΖόΔόΒόΑόΏόΌόΊόΈό¶ό΄ό²ό°ό®ό¬ό©ό¨ό¦ό£όΆό όόόό—ό•ό“ό‘όόό‹ό‰ό‡ό„όƒό€όό}όzόyόwόuόsόqόoόmόkόiόgόeόcόaό_ό]ό[όYόXόUόSόPόNόLόJόIόFόEόDόAό@ό=ό<ό9ό7ό5ό3ό1ό/ό-ό+ό)ό'ό%ό#ό!όόόόόόόόόόό
+όόόόόόώϋύϋϊϋψϋφϋτϋρϋξϋμϋκϋιϋζϋεϋβϋαϋίϋέϋΫϋΩϋΧϋΥϋΣϋΡϋΟϋΝϋΛϋΙϋΗϋΔϋΓϋΐϋΏϋ½ϋΌϋΉϋ·ϋµϋ³ϋ°ϋ®ϋ¬ϋªϋ¨ϋ§ϋ¤ϋ¤ϋ΅ϋ ϋϋ›ϋϋϋ•ϋ”ϋ’ϋϋϋ‹ϋϋ‡ϋ…ϋƒϋϋϋ}ϋ{ϋxϋvϋtϋsϋpϋnϋlϋjϋhϋfϋcϋbϋaϋ_ϋ\ϋ[ϋXϋVϋTϋRϋNϋMϋKϋIϋGϋEϋBϋAϋ>ϋ=ϋ:ϋ9ϋ7ϋ5ϋ3ϋ1ϋ.ϋ-ϋ+ϋ)ϋ'ϋ%ϋ#ϋ!ϋϋϋϋϋϋϋϋϋϋϋ
+ϋϋϋϋϋ ϋÿϊύϊϋϊωϊχϊυϊσϊρϊξϊνϊλϊθϊζϊδϊβϊαϊίϊάϊΪϊΩϊΦϊΤϊΡϊΠϊΞϊΛϊΙϊΘϊΕϊΓϊΑϊΏϊ½ϊΌϊΊϊΈϊ¶ϊ΄ϊ±ϊ®ϊ¬ϊªϊ¨ϊ¦ϊ¥ϊΆϊ ϊϊϊϊ—ϊ–ϊ•ϊ’ϊϊϊϊϊϊ†ϊ„ϊ‚ϊϊ~ϊ|ϊzϊxϊvϊtϊrϊpϊnϊlϊiϊgϊeϊcϊaϊ_ϊ^ϊ\ϊZϊXϊVϊTϊRϊPϊNϊLϊJϊHϊFϊCϊAϊ?ϊ=ϊ<ϊ9ϊ6ϊ5ϊ3ϊ1ϊ/ϊ,ϊ+ϊ(ϊ&ϊ$ϊ#ϊ!ϊϊϊϊϊϊϊϊϊϊϊ	ϊϊϊϊϊÿωόωϊωωωχωφωσωρωπωνωλωιωηωδωγωΰωίωέωΫωΨωΦωΤωÒωΠωΞωΝωΛωΙωΖωΔωΒωΐωΎωΌω»ωΉωΈωµω΄ω±ω―ω¬ω«ω¨ω§ω¤ω£ω ωωωωω–ω“ω’ωωω‹ω‰ωω…ω‚ω€ωω}ω{ωyωwωuωsωqωpωmωkωiωgωdωaω_ω^ω\ωZωXωVωTωQωPωNωLωIωHωFωCωAω?ω=ω;ω9ω7ω5ω3ω1ω/ω-ω+ω)ω(ω$ω#ω ωωωωωωωωωωωω	ωωωω ωÿψύψϋψψψφψτψςψπψξψμψκψθψεψγψαψίψήψάψΩψΧψΦψΤψÒψΠψΞψΛψΙψΗψΔψΒψΐψΎψΌψΊψΈψ¶ψ΄ψ²ψ―ψ®ψ¬ψªψ¨ψ¦ψ£ψΆψψψψψψ•ψ“ψ‘ψψψ‹ψ‰ψ‡ψ…ψƒψψψ{ψzψyψvψtψsψqψoψmψlψjψhψeψcψaψ_ψ]ψZψXψVψSψRψPψNψLψJψHψEψDψAψ?ψ=ψ;ψ8ψ7ψ4ψ3ψ1ψ0ψ-ψ,ψ)ψ'ψ%ψ#ψ ψψψψψψψψψψψ	ψψψψψÿχύχϋχωχχχυχςχπχοχμχλχθχηχδχγχΰχίχάχΪχΧχΦχΤχÒχΟχΞχΜχΛχΙχΗχΔχΒχΐχΎχΌχΊχΈχ¶χ³χ²χ―χ­χ«χ©χ§χ¥χ£χ χχχχχ—χ”χ“χχχχχ‰χ‡χ…χ‚χχ}χ{χyχwχuχsχqχoχlχkχhχfχeχbχ`χ_χ\χZχXχVχTχQχPχNχLχJχHχFχDχBχ@χ=χ<χ9χ6χ5χ2χ1χ.χ-χ+χ)χ'χ&χ$χ"χ χχχχχχχχχχ
+χχχχχ χύφόφϋφχφυφσφρφξφνφλφθφηφζφδφαφΰφέφΫφΩφΦφΤφÒφΟφΞφΛφΙφΗφΕφΔφΑφΏφ½φ»φΉφ¶φ΄φ³φ±φ―φ¬φªφ¨φ¦φ¤φΆφ΅φφφφφ–φ”φ’φφφφφφ†φ„φ‚φ€φφ|φ{φyφvφtφrφpφnφkφjφgφeφcφ`φ^φ\φ[φXφWφTφRφPφNφLφIφGφEφCφBφ@φ>φ<φ:φ8φ5φ3φ1φ.φ,φ)φ(φ%φ$φ!φ φφφφφφφφφφ
+φφφφφφÿυόυϊυψυχυυυσυπυουλυκυηυευγυαυίυήυάυΪυΩυΦυΤυÒυΠυΝυΜυΚυΗυΕυΓυΑυΏυΌυΌυΉυ·υ΄υ³υ°υ―υ¬υªυ¨υ¥υ£υ΅υυυυ™υυ–υ”υ’υυυυυ†υƒυυυ}υ{υyυwυuυsυqυoυlυlυiυgυeυcυ`υ_υ]υ[υXυVυUυRυQυNυLυKυGυFυBυAυ?υ=υ<υ:υ8υ6υ4υ2υ0υ.υ+υ*υ'υ%υ#υ!υυυυυυυυυυυ
+υυυυυώτύτϋτψτχτυτττρτοτξτκτιτζτγτβτίτέτΫτΩτΧτΥτΣτΡτΟτΜτΛτΙτΖτΔτΒτΐτΎτ½τΊτΈτ¶τ΄τ±τ°τ®τ¬τ©τ¨τ¥τ¤τ΅τττττ—τ•τ’τ‘τττ‹ττ‡τ…τ‚τττ}τ{τxτvτtτrτoτnτkτjτgτeτcτaτ^τ\τ\τXτVτUτQτPτNτLτJτIτFτDτBτ?τ=τ:τ8τ6τ4τ1τ1τ.τ,τ*τ(τ&τ%τ"τττττττττττ
+ττττττÿσύσϊσχσφσσσςσοσξσλσκσθσζσδσβσΰσήσάσΪσΧσΥσΣσΡσΟσΜσΚσΘσΖσΓσΒσΐσΎσ»σΉσ·σµσ΄σ±σ―σ­σ«σ©σ§σ¤σ£σ΅σσσ›σσ•σ“σ‘σσσσσ‡σ„σσ€σ~σ|σzσxσvσsσrσoσnσkσiσgσeσbσaσ_σ^σ[σYσWσUσSσPσNσLσJσHσFσDσCσ@σ>σ=σ:σ8σ6σ4σ2σ0σ.σ+σ*σ'σ%σ"σ!σσσσσσσσσσσ	σσσσσώςύςϋςωςχςυςςςπςνςλςιςζςδςαςΰςίςάςΪςΩςΧςΥςΣςΠςΞςΜςΚςΘςΖςΓςΑςΏς½ς»ςΉςΈςµς³ς±ς―ς­ςªς¨ς¦ς¤ς΅ςςςς›ςς–ς•ς“ςςς‹ς‰ςς†ςƒςςς}ςzςxςvςtςsςpςnςlςjςgςeςcςaς_ς]ς[ςXςWςUςRςPςOςMςJςGςEςDς@ς?ς=ς;ς8ς6ς4ς2ς1ς/ς,ς+ς(ς&ς$ς"ς ςςςςςςςςςς
+ς	ςςςς ςύρϋρωρψρυρτρςρρρξρμρκρθρζρδρβρίράρΫρΩρΧρΤρΣρΠρΟρΜρΚρΗρΖρΔρΑρΐρΌρ»ρΈρ¶ρµρ²ρ°ρ­ρ­ρªρ¨ρ§ρ¤ρΆρρρ›ρρ–ρ•ρ’ρρρ‹ρρ‡ρ†ρƒρρρ}ρ{ρxρwρsρtρpρnρlρjρhρfρdρbρ`ρ^ρ\ρYρWρUρRρQρNρLρKρIρHρEρCρAρ?ρ=ρ;ρ8ρ6ρ4ρ2ρ0ρ.ρ+ρ)ρ'ρ%ρ#ρ!ρρρρρρρρρρρ	ρρρρρÿπύπϋπωπχπτπρποπνπλπιπηπδπγπβπίπάπΪπΨπΦπΤπΡπΟπΝπΛπΙπΗπΖπΔπΑπΏπ½πΊπΉπ·πµπ³π°π®π¬πªπ¨π¥π¤π΅π πππ›ππ•π”π’πππ‹ππ†π„πƒπ€π~π|πzπxπvπsπqπoπmπjπhπgπdπbπ`π]π[πZπWπVπTπRπOπMπJπHπFπDπBπ?π=π;π9π7π5π3π1π.π-π+π(π&π$π"π πππππππππππ
+ππππ πώοϋοϊοψοφουοςοροξομοκοθοζοδοαοίοέοΫοΨοΦοΤοÒοΠοΝοΜοΚοΘοΕοΓοΑοΏοΌοΊοΈο¶ο³ο²ο°ο―ο¬οªο¨ο¦ο£ο΅οο›οο—ο•ο”ο’οοοο‰ο‡ο…οƒοο~ο|οzοxοvοtοrοoοmοlοiοgοeοcοaο_ο]οZοYοVοTοRοPοOοLοKοJοGοEοAο@ο>ο<ο9ο8ο5ο3ο1ο/ο-ο*ο(ο&ο$ο"οοοοοοοοοοοοοοοο οώξόξωξχξτξςξπξξξμξκξηξζξδξαξίξέξάξΩξΦξΤξΣξΠξΟξΜξΚξΘξΕξΔξΒξΐξ½ξΌξΉξ¶ξµξ³ξ°ξ®ξ¬ξªξ¨ξ¥ξ¤ξΆξ΅ξξξξξ•ξ“ξ‘ξξξ‹ξ‰ξ†ξ…ξ‚ξξ}ξ|ξyξwξuξsξqξoξlξkξhξfξdξbξ_ξ^ξ[ξZξXξUξTξQξOξMξJξHξEξCξAξ?ξ=ξ:ξ9ξ7ξ4ξ2ξ0ξ/ξ,ξ*ξ'ξ&ξ$ξ"ξ ξξξξξξξξξξξξξξξÿνόνϋνωνχνφντνρνονννλνινηνενβνΰνήνΫνΩνΧνΦνΣνΡνΞνΜνΛνΘνΗνΔνΒνΐν½ν»νΉν·νµν³ν±ν―ν­ν«ν©ν¦ν¤ν΅νννν™ν–ν”ν’ννν‹ν‰νν†ν„ννν}ν{νyνwνuνrνqνnνlνjνgνfνcνaν_ν]νZνXνVνTνRνPνNνMνJνHνFνEνBν?ν>ν;ν9ν8ν5ν2ν0ν.ν,ν*ν(ν%ν#ν ννννννννννν
+ννννν νύμϋμψμφμτμρμομνμλμιμζμεμβμΰμίμέμΫμΨμΦμΤμÒμΠμΝμΛμΙμΗμΕμΓμΐμΎμΌμ»μΉμ¶μ΄μ²μ―μ­μªμ¨μ¦μ¥μ£μ΅μμμμ™μ—μ•μ’μμμμ‰μμ…μƒμ€μμ}μzμyμwμtμrμoμmμkμiμfμdμcμaμ^μ\μZμXμWμUμSμPμNμKμIμFμDμAμ?μ>μ;μ9μ7μ5μ2μ1μ.μ-μ+μ(μ&μ$μ"μμμμμμμμμμμμ	μμμμÿλύλϋλωλχλυλτλρλολνλλλιληλδλβλαλήλάλΪλΧλΥλÒλΡλΞλΜλΛλΘλΖλΔλΑλΏλ½λ»λΉλ¶λ΄λ²λ±λ®λ¬λªλ¨λ¦λ¤λ΅λλλλ—λ•λ“λ’λλλ‹λ‰λ‡λ„λƒλ€λ~λ{λyλxλvλtλrλoλmλkλiλgλdλbλaλ^λ\λYλXλUλSλPλOλLλJλIλGλEλDλAλ>λ=λ:λ8λ6λ4λ2λ0λ-λ*λ(λ'λ$λ"λ λλλλλλλλλλ
+λλλλλÿκώκόκϊκψκυκςκπκνκμκικηκεκγκακήκάκΪκΨκΧκΤκÒκΠκΞκΜκΙκΗκΕκΓκΑκΏκ½κΊκΈκ¶κ΄κ²κ°κ­κ«κ¨κ¦κ¥κΆκ κκκ›κ™κ—κ”κ’κκκκκκ…κƒκ€κκ}κ{κxκvκtκrκoκnκkκiκfκdκbκ`κ^κ[κYκWκUκSκQκPκNκKκHκEκCκAκ>κ<κ:κ8κ7κ4κ2κ0κ-κ,κ*κ(κ%κ#κ!κκκκκκκκκκκ	κκκκκώιόιωιψιφιτιριπιξιμικιθιειδιβιίιέιΪιΨιΦιΤιÒιΟιΝιΛιΙιΖιΕιΒιΐιΎι»ιΉι·ι¶ι³ι±ι―ι­ι«ι©ι§ι¥ι£ι ιι›ιι—ι”ι’ιιιι‰ι‡ι†ι„ιιι}ι{ιyιvιtιrιpιnιkιiιfιdιbιaι^ι]ιZιXιVιTιQιOιMιKιIιFιEιCιAι?ι=ι;ι9ι6ι4ι2ι0ι-ι+ι)ι'ι$ι"ι ιιιιιιιιιι
+ιιιιιÿθύθϋθϊθ
