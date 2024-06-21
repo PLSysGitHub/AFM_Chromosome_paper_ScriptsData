@@ -20,3 +20,6 @@ for i in{0..n); do python3 YM_analysis_SingleChrm_Parallelization10.py $i & done
 The same procedure is performed for processing the raw files in the folder "Chromosome_indentations", within the "IndentationAlongChromatids" main folder. Here, only two "...Parallelization.py" scripts are present and they will populate the folder "20240424"; this folder is copied into "Mechanics_along_chromatids" for generating the respective plots. More details about the individual scripts present in these folders can be found at https://github.com/AndreaRid/NanoscopeAFM_ForceCurve_analysis
 
 ***Generating the plots shown in the manuscript:*** once the scripts within the "RawData_ProcessingScripts" folder have been run correctly and after copying the two resulting folders (mentioned above) into the appropriate analysis folders, it's sufficient to run each scripts listed in the content section for generating the respective data and plots.
+
+
+Cite this code using: [![DOI](https://zenodo.org/badge/818198149.svg)](https://zenodo.org/doi/10.5281/zenodo.12205332)
